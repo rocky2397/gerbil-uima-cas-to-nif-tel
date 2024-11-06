@@ -1,0 +1,1855 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/138_cas#char=1,8> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung"@en ;
+    nif:beginIndex "1"^^xsd:nonNegativeInteger ;
+    nif:endIndex "8"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=1000,1003> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "RAM"@en ;
+    nif:beginIndex "1000"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1003"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5295> .
+
+<http://example.org/138_cas#char=1016,1031> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "internal memory"@en ;
+    nif:beginIndex "1016"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1031"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q107399627> .
+
+<http://example.org/138_cas#char=1054,1061> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Android"@en ;
+    nif:beginIndex "1054"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1061"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q94> .
+
+<http://example.org/138_cas#char=106,116> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "smartwatch"@en ;
+    nif:beginIndex "106"^^xsd:nonNegativeInteger ;
+    nif:endIndex "116"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=1066,1069> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "iOS"@en ;
+    nif:beginIndex "1066"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1069"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q48493> .
+
+<http://example.org/138_cas#char=1083,1102> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "1083"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1102"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=1140,1147> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Spotify"@en ;
+    nif:beginIndex "1140"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1147"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q689141> .
+
+<http://example.org/138_cas#char=1149,1161> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Under Armour"@en ;
+    nif:beginIndex "1149"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1161"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2031485> .
+
+<http://example.org/138_cas#char=1166,1172> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Strava"@en ;
+    nif:beginIndex "1166"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1172"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q13884156> .
+
+<http://example.org/138_cas#char=1192,1205> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "voice control"@en ;
+    nif:beginIndex "1192"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1205"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2350070> .
+
+<http://example.org/138_cas#char=1210,1219> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung's"@en ;
+    nif:beginIndex "1210"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1219"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=1210,1235> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung's Bixby assistant"@en ;
+    nif:beginIndex "1210"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1235"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q28518308> .
+
+<http://example.org/138_cas#char=1245,1254> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung's"@en ;
+    nif:beginIndex "1245"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1254"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=1255,1268> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Smartwatches"@en ;
+    nif:beginIndex "1255"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1268"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=1305,1319> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "rotating bezel"@en ;
+    nif:beginIndex "1305"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1319"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1718547> .
+
+<http://example.org/138_cas#char=1416,1426> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "timepieces"@en ;
+    nif:beginIndex "1416"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1426"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q42622779> .
+
+<http://example.org/138_cas#char=1432,1446> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure"@en ;
+    nif:beginIndex "1432"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1446"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q82642> .
+
+<http://example.org/138_cas#char=1465,1484> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "1465"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1484"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=1783,1829> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "University of California, San Francisco (UCSF)"@en ;
+    nif:beginIndex "1783"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1829"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1061104> .
+
+<http://example.org/138_cas#char=189,197> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "wearable"@en ;
+    nif:beginIndex "189"^^xsd:nonNegativeInteger ;
+    nif:endIndex "197"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4845080> .
+
+<http://example.org/138_cas#char=1905,1924> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "1905"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1924"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=1943,1950> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung"@en ;
+    nif:beginIndex "1943"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1950"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=2075,2113> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "QardioArm smart blood pressure monitor"@en ;
+    nif:beginIndex "2075"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2113"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q91598103> .
+
+<http://example.org/138_cas#char=2091,2113> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure monitor"@en ;
+    nif:beginIndex "2091"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2113"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q73466793> .
+
+<http://example.org/138_cas#char=2161,2172> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Apple Watch"@en ;
+    nif:beginIndex "2161"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2172"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q18010946> .
+
+<http://example.org/138_cas#char=2182,2187> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Omron"@en ;
+    nif:beginIndex "2182"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2187"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11292433> .
+
+<http://example.org/138_cas#char=22,47> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure monitoring"@en ;
+    nif:beginIndex "22"^^xsd:nonNegativeInteger ;
+    nif:endIndex "47"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4994431> .
+
+<http://example.org/138_cas#char=2263,2275> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FDA-approved"@en ;
+    nif:beginIndex "2263"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2275"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q111972129> .
+
+<http://example.org/138_cas#char=2263,2286> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FDA-approved smartwatch"@en ;
+    nif:beginIndex "2263"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2286"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=2276,2286> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "smartwatch"@en ;
+    nif:beginIndex "2276"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2286"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=2520,2527> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung"@en ;
+    nif:beginIndex "2520"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2527"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=2537,2543> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "watch"@en ;
+    nif:beginIndex "2537"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2543"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q178794> .
+
+<http://example.org/138_cas#char=256,261> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "sleep"@en ;
+    nif:beginIndex "256"^^xsd:nonNegativeInteger ;
+    nif:endIndex "261"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q104830067> .
+
+<http://example.org/138_cas#char=266,285> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "heart rate tracking"@en ;
+    nif:beginIndex "266"^^xsd:nonNegativeInteger ;
+    nif:endIndex "285"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q925303> .
+
+<http://example.org/138_cas#char=2706,2726> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "2706"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2726"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=2762,2778> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "activity tracker"@en ;
+    nif:beginIndex "2762"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2778"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q16001686> .
+
+<http://example.org/138_cas#char=2790,2800> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Fit"@en ;
+    nif:beginIndex "2790"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2800"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259909> .
+
+<http://example.org/138_cas#char=2819,2829> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "smartphone"@en ;
+    nif:beginIndex "2819"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2829"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q22645> .
+
+<http://example.org/138_cas#char=2898,2914> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "sleep monitoring"@en ;
+    nif:beginIndex "2898"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2914"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q104830067> .
+
+<http://example.org/138_cas#char=2925,2935> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Fit"@en ;
+    nif:beginIndex "2925"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2935"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259909> .
+
+<http://example.org/138_cas#char=2940,2959> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "2940"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2959"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=3031,3037> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy"@en ;
+    nif:beginIndex "3031"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3037"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q493064> .
+
+<http://example.org/138_cas#char=3038,3054> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "wireless earbuds"@en ;
+    nif:beginIndex "3038"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3054"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q113711206> .
+
+<http://example.org/138_cas#char=3097,3110> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bluetooth 5.0"@en ;
+    nif:beginIndex "3097"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3110"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65434343> .
+
+<http://example.org/138_cas#char=3120,3137> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "wireless charging"@en ;
+    nif:beginIndex "3120"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3137"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2611270> .
+
+<http://example.org/138_cas#char=314,333> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "314"^^xsd:nonNegativeInteger ;
+    nif:endIndex "333"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=3196,3203> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung"@en ;
+    nif:beginIndex "3196"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3203"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=3196,3225> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung Galaxy S10 smartphone"@en ;
+    nif:beginIndex "3196"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3225"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60021939> .
+
+<http://example.org/138_cas#char=3244,3257> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bixby support"@en ;
+    nif:beginIndex "3244"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3257"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q28518308> .
+
+<http://example.org/138_cas#char=3262,3275> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "voice control"@en ;
+    nif:beginIndex "3262"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3275"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2350070> .
+
+<http://example.org/138_cas#char=3319,3331> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "battery life"@en ;
+    nif:beginIndex "3319"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3331"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q105482243> .
+
+<http://example.org/138_cas#char=3342,3353> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy buds"@en ;
+    nif:beginIndex "3342"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3353"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259874> .
+
+<http://example.org/138_cas#char=3362,3381> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "3362"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3381"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=3462,3473> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy buds"@en ;
+    nif:beginIndex "3462"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3473"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259874> .
+
+<http://example.org/138_cas#char=3526,3536> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy S10"@en ;
+    nif:beginIndex "3526"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3536"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60021939> .
+
+<http://example.org/138_cas#char=3540,3551> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy S10+"@en ;
+    nif:beginIndex "3540"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3551"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q66688566> .
+
+<http://example.org/138_cas#char=3581,3592> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Fit"@en ;
+    nif:beginIndex "3581"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3592"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259909> .
+
+<http://example.org/138_cas#char=363,377> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure"@en ;
+    nif:beginIndex "363"^^xsd:nonNegativeInteger ;
+    nif:endIndex "377"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q82642> .
+
+<http://example.org/138_cas#char=491,504> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "folding phone"@en ;
+    nif:beginIndex "491"^^xsd:nonNegativeInteger ;
+    nif:endIndex "504"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q63542282> .
+
+<http://example.org/138_cas#char=510,529> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "510"^^xsd:nonNegativeInteger ;
+    nif:endIndex "529"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=550,560> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "wristwatch"@en ;
+    nif:beginIndex "550"^^xsd:nonNegativeInteger ;
+    nif:endIndex "560"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q26965868> .
+
+<http://example.org/138_cas#char=57,76> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "57"^^xsd:nonNegativeInteger ;
+    nif:endIndex "76"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=593,597> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "face"@en ;
+    nif:beginIndex "593"^^xsd:nonNegativeInteger ;
+    nif:endIndex "597"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122945059> .
+
+<http://example.org/138_cas#char=649,664> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Gorilla Glass 3"@en ;
+    nif:beginIndex "649"^^xsd:nonNegativeInteger ;
+    nif:endIndex "664"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q268706> .
+
+<http://example.org/138_cas#char=695,701> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "straps"@en ;
+    nif:beginIndex "695"^^xsd:nonNegativeInteger ;
+    nif:endIndex "701"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1386008> .
+
+<http://example.org/138_cas#char=79,86> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung"@en ;
+    nif:beginIndex "79"^^xsd:nonNegativeInteger ;
+    nif:endIndex "86"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=814,833> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "814"^^xsd:nonNegativeInteger ;
+    nif:endIndex "833"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=839,848> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung's"@en ;
+    nif:beginIndex "839"^^xsd:nonNegativeInteger ;
+    nif:endIndex "848"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124989916> .
+
+<http://example.org/138_cas#char=849,854> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Tizen"@en ;
+    nif:beginIndex "849"^^xsd:nonNegativeInteger ;
+    nif:endIndex "854"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q609306> .
+
+<http://example.org/138_cas#char=861,869> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wearable"@en ;
+    nif:beginIndex "861"^^xsd:nonNegativeInteger ;
+    nif:endIndex "869"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4845080> .
+
+<http://example.org/138_cas#char=905,912> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "battery"@en ;
+    nif:beginIndex "905"^^xsd:nonNegativeInteger ;
+    nif:endIndex "912"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q267298> .
+
+<http://example.org/138_cas#char=960,972> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch"@en ;
+    nif:beginIndex "960"^^xsd:nonNegativeInteger ;
+    nif:endIndex "972"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q56071642> .
+
+<http://example.org/139_cas#char=0,8> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol's"@en ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "8"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=1005,1019> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "pyrolysis oils"@en ;
+    nif:beginIndex "1005"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1019"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q898694> .
+
+<http://example.org/139_cas#char=101,107> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "101"^^xsd:nonNegativeInteger ;
+    nif:endIndex "107"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=1052,1074> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "petrochemical industry"@en ;
+    nif:beginIndex "1052"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1074"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q16070574> .
+
+<http://example.org/139_cas#char=1131,1147> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "circular economy"@en ;
+    nif:beginIndex "1131"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1147"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q497743> .
+
+<http://example.org/139_cas#char=1158,1164> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "1158"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1164"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=1158,1166> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol's"@en ;
+    nif:beginIndex "1158"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1166"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=1279,1291> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "raw material"@en ;
+    nif:beginIndex "1279"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1291"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q192355> .
+
+<http://example.org/139_cas#char=1353,1359> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "1353"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1359"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=1401,1410> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "polymers"@en ;
+    nif:beginIndex "1401"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1410"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q81163> .
+
+<http://example.org/139_cas#char=1418,1426> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic"@en ;
+    nif:beginIndex "1418"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1426"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=1429,1436> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic"@en ;
+    nif:beginIndex "1429"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1436"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=1491,1499> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "polymers"@en ;
+    nif:beginIndex "1491"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1499"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q81163> .
+
+<http://example.org/139_cas#char=1540,1548> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic"@en ;
+    nif:beginIndex "1540"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1548"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=1540,1553> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic waste"@en ;
+    nif:beginIndex "1540"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1553"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q21583226> .
+
+<http://example.org/139_cas#char=1580,1596> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "circular economy"@en ;
+    nif:beginIndex "1580"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1596"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q497743> .
+
+<http://example.org/139_cas#char=1625,1633> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastics"@en ;
+    nif:beginIndex "1625"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1633"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=1635,1653> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Chemical Recycling"@en ;
+    nif:beginIndex "1635"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1653"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60609206> .
+
+<http://example.org/139_cas#char=1671,1679> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastics"@en ;
+    nif:beginIndex "1671"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1679"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=1681,1700> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "chemical recycling"@en ;
+    nif:beginIndex "1681"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1700"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60609206> .
+
+<http://example.org/139_cas#char=1828,1834> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "1828"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1834"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=185,201> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Circular Economy"@en ;
+    nif:beginIndex "185"^^xsd:nonNegativeInteger ;
+    nif:endIndex "201"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q497743> .
+
+<http://example.org/139_cas#char=1937,1945> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic"@en ;
+    nif:beginIndex "1937"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1945"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=1982,1988> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "1982"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1988"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=237,250> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic waste"@en ;
+    nif:beginIndex "237"^^xsd:nonNegativeInteger ;
+    nif:endIndex "250"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q21583226> .
+
+<http://example.org/139_cas#char=310,322> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "raw material"@en ;
+    nif:beginIndex "310"^^xsd:nonNegativeInteger ;
+    nif:endIndex "322"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q192355> .
+
+<http://example.org/139_cas#char=331,344> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "petrochemical"@en ;
+    nif:beginIndex "331"^^xsd:nonNegativeInteger ;
+    nif:endIndex "344"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1364904> .
+
+<http://example.org/139_cas#char=356,374> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Chemical Recycling"@en ;
+    nif:beginIndex "356"^^xsd:nonNegativeInteger ;
+    nif:endIndex "374"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60609206> .
+
+<http://example.org/139_cas#char=378,386> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastic"@en ;
+    nif:beginIndex "378"^^xsd:nonNegativeInteger ;
+    nif:endIndex "386"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=431,437> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "431"^^xsd:nonNegativeInteger ;
+    nif:endIndex "437"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=479,493> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "synthetic oils"@en ;
+    nif:beginIndex "479"^^xsd:nonNegativeInteger ;
+    nif:endIndex "493"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q902134> .
+
+<http://example.org/139_cas#char=513,531> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "chemical recycling"@en ;
+    nif:beginIndex "513"^^xsd:nonNegativeInteger ;
+    nif:endIndex "531"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60609206> .
+
+<http://example.org/139_cas#char=535,548> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic waste"@en ;
+    nif:beginIndex "535"^^xsd:nonNegativeInteger ;
+    nif:endIndex "548"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q21583226> .
+
+<http://example.org/139_cas#char=662,668> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "662"^^xsd:nonNegativeInteger ;
+    nif:endIndex "668"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=87,99> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bioplastics"@en ;
+    nif:beginIndex "87"^^xsd:nonNegativeInteger ;
+    nif:endIndex "99"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q413458> .
+
+<http://example.org/139_cas#char=884,890> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Repsol"@en ;
+    nif:beginIndex "884"^^xsd:nonNegativeInteger ;
+    nif:endIndex "890"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q174747> .
+
+<http://example.org/139_cas#char=893,901> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Refining"@en ;
+    nif:beginIndex "893"^^xsd:nonNegativeInteger ;
+    nif:endIndex "901"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q682483> .
+
+<http://example.org/139_cas#char=9,17> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastic"@en ;
+    nif:beginIndex "9"^^xsd:nonNegativeInteger ;
+    nif:endIndex "17"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=9,26> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastic Recycling"@en ;
+    nif:beginIndex "9"^^xsd:nonNegativeInteger ;
+    nif:endIndex "26"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1194111> .
+
+<http://example.org/139_cas#char=951,967> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic polymers"@en ;
+    nif:beginIndex "951"^^xsd:nonNegativeInteger ;
+    nif:endIndex "967"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q81163> .
+
+<http://example.org/139_cas#char=989,1002> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "hydrocarbons"@en ;
+    nif:beginIndex "989"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1002"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q43648> .
+
+<http://example.org/140_cas#char=1162,1167> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tanks"@en ;
+    nif:beginIndex "1162"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1167"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7250141> .
+
+<http://example.org/140_cas#char=1199,1209> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "propellant"@en ;
+    nif:beginIndex "1199"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1209"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1364934> .
+
+<http://example.org/140_cas#char=12,16> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AFRC"@en ;
+    nif:beginIndex "12"^^xsd:nonNegativeInteger ;
+    nif:endIndex "16"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q407191> .
+
+<http://example.org/140_cas#char=1219,1228> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Hydrazine"@en ;
+    nif:beginIndex "1219"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1228"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q58447> .
+
+<http://example.org/140_cas#char=1232,1241> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Xenon gas"@en ;
+    nif:beginIndex "1232"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1241"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1106> .
+
+<http://example.org/140_cas#char=1399,1418> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "satellite platforms"@en ;
+    nif:beginIndex "1399"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1418"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q372881> .
+
+<http://example.org/140_cas#char=141,151> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ESA-funded"@en ;
+    nif:beginIndex "141"^^xsd:nonNegativeInteger ;
+    nif:endIndex "151"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q42262> .
+
+<http://example.org/140_cas#char=1553,1557> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AFRC"@en ;
+    nif:beginIndex "1553"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1557"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q407191> .
+
+<http://example.org/140_cas#char=1562,1571> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Airbus DS"@en ;
+    nif:beginIndex "1562"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1571"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q15529123> .
+
+<http://example.org/140_cas#char=1618,1621> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "TWI"@en ;
+    nif:beginIndex "1618"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1621"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1408031> .
+
+<http://example.org/140_cas#char=1673,1678> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tanks"@en ;
+    nif:beginIndex "1673"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1678"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7250141> .
+
+<http://example.org/140_cas#char=1708,1712> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AFRC"@en ;
+    nif:beginIndex "1708"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1712"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q407191> .
+
+<http://example.org/140_cas#char=1782,1798> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "propellant tanks"@en ;
+    nif:beginIndex "1782"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1798"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7250141> .
+
+<http://example.org/140_cas#char=1821,1830> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Airbus DS"@en ;
+    nif:beginIndex "1821"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1830"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q15529123> .
+
+<http://example.org/140_cas#char=1953,1958> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "metal"@en ;
+    nif:beginIndex "1953"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1958"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11426> .
+
+<http://example.org/140_cas#char=1953,1966> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "metal forming"@en ;
+    nif:beginIndex "1953"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1966"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q59629737> .
+
+<http://example.org/140_cas#char=1968,1988> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "superplastic forming"@en ;
+    nif:beginIndex "1968"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1988"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4410207> .
+
+<http://example.org/140_cas#char=197,201> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tank"@en ;
+    nif:beginIndex "197"^^xsd:nonNegativeInteger ;
+    nif:endIndex "201"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7250141> .
+
+<http://example.org/140_cas#char=1992,2014> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "additive manufacturing"@en ;
+    nif:beginIndex "1992"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2014"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q360931> .
+
+<http://example.org/140_cas#char=2058,2062> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tank"@en ;
+    nif:beginIndex "2058"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2062"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7250141> .
+
+<http://example.org/140_cas#char=2217,2232> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "titanium alloys"@en ;
+    nif:beginIndex "2217"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2232"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3300719> .
+
+<http://example.org/140_cas#char=2274,2279> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "alloy"@en ;
+    nif:beginIndex "2274"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2279"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q37756> .
+
+<http://example.org/140_cas#char=258,262> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AFRC"@en ;
+    nif:beginIndex "258"^^xsd:nonNegativeInteger ;
+    nif:endIndex "262"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q407191> .
+
+<http://example.org/140_cas#char=291,315> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Strathclyde University's"@en ;
+    nif:beginIndex "291"^^xsd:nonNegativeInteger ;
+    nif:endIndex "315"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1859178> .
+
+<http://example.org/140_cas#char=350,354> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AFRC"@en ;
+    nif:beginIndex "350"^^xsd:nonNegativeInteger ;
+    nif:endIndex "354"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q407191> .
+
+<http://example.org/140_cas#char=382,389> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "forming"@en ;
+    nif:beginIndex "382"^^xsd:nonNegativeInteger ;
+    nif:endIndex "389"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5470205> .
+
+<http://example.org/140_cas#char=394,401> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "forging"@en ;
+    nif:beginIndex "394"^^xsd:nonNegativeInteger ;
+    nif:endIndex "401"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q193057> .
+
+<http://example.org/140_cas#char=412,436> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Airbus Defence and Space"@en ;
+    nif:beginIndex "412"^^xsd:nonNegativeInteger ;
+    nif:endIndex "436"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q15529123> .
+
+<http://example.org/140_cas#char=454,464> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fuel tanks"@en ;
+    nif:beginIndex "454"^^xsd:nonNegativeInteger ;
+    nif:endIndex "464"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1411232> .
+
+<http://example.org/140_cas#char=532,537> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tanks"@en ;
+    nif:beginIndex "532"^^xsd:nonNegativeInteger ;
+    nif:endIndex "537"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1411232> .
+
+<http://example.org/140_cas#char=577,581> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AFRC"@en ;
+    nif:beginIndex "577"^^xsd:nonNegativeInteger ;
+    nif:endIndex "581"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q407191> .
+
+<http://example.org/140_cas#char=592,596> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tank"@en ;
+    nif:beginIndex "592"^^xsd:nonNegativeInteger ;
+    nif:endIndex "596"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1411232> .
+
+<http://example.org/140_cas#char=683,689> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "forged"@en ;
+    nif:beginIndex "683"^^xsd:nonNegativeInteger ;
+    nif:endIndex "689"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q193057> .
+
+<http://example.org/140_cas#char=691,703> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "heat-treated"@en ;
+    nif:beginIndex "691"^^xsd:nonNegativeInteger ;
+    nif:endIndex "703"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1458918> .
+
+<http://example.org/140_cas#char=707,721> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machined down"@en ;
+    nif:beginIndex "707"^^xsd:nonNegativeInteger ;
+    nif:endIndex "721"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q192047> .
+
+<http://example.org/140_cas#char=770,776> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "welded"@en ;
+    nif:beginIndex "770"^^xsd:nonNegativeInteger ;
+    nif:endIndex "776"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q131172> .
+
+<http://example.org/140_cas#char=78,94> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "propellant tanks"@en ;
+    nif:beginIndex "78"^^xsd:nonNegativeInteger ;
+    nif:endIndex "94"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7250141> .
+
+<http://example.org/140_cas#char=821,840> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machining them down"@en ;
+    nif:beginIndex "821"^^xsd:nonNegativeInteger ;
+    nif:endIndex "840"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q192047> .
+
+<http://example.org/140_cas#char=901,906> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "waste"@en ;
+    nif:beginIndex "901"^^xsd:nonNegativeInteger ;
+    nif:endIndex "906"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q45701> .
+
+<http://example.org/140_cas#char=944,953> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machining"@en ;
+    nif:beginIndex "944"^^xsd:nonNegativeInteger ;
+    nif:endIndex "953"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q192047> .
+
+<http://example.org/141_cas#char=1002,1008> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "1002"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1008"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=1043,1049> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "1043"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1049"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=1068,1074> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "1068"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1074"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=11,31> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic domain wall"@en ;
+    nif:beginIndex "11"^^xsd:nonNegativeInteger ;
+    nif:endIndex "31"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/141_cas#char=1199,1205> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "1199"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1205"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=1227,1240> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "NAND function"@en ;
+    nif:beginIndex "1227"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1240"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3874243> .
+
+<http://example.org/141_cas#char=1242,1250> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Modeling"@en ;
+    nif:beginIndex "1242"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1250"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3317838> .
+
+<http://example.org/141_cas#char=1326,1332> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "1326"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1332"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=1432,1440> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "circuits"@en ;
+    nif:beginIndex "1432"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1440"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q132629> .
+
+<http://example.org/141_cas#char=1451,1461> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "full adder"@en ;
+    nif:beginIndex "1451"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1461"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q376953> .
+
+<http://example.org/141_cas#char=1506,1518> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "lithographic"@en ;
+    nif:beginIndex "1506"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1518"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q133036> .
+
+<http://example.org/141_cas#char=155,165> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "transistor"@en ;
+    nif:beginIndex "155"^^xsd:nonNegativeInteger ;
+    nif:endIndex "165"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q55719939> .
+
+<http://example.org/141_cas#char=1557,1564> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "silicon"@en ;
+    nif:beginIndex "1557"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1564"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q670> .
+
+<http://example.org/141_cas#char=1602,1606> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "etch"@en ;
+    nif:beginIndex "1602"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1606"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2368605> .
+
+<http://example.org/141_cas#char=1611,1625> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic films"@en ;
+    nif:beginIndex "1611"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1625"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4274052> .
+
+<http://example.org/141_cas#char=1674,1685> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "domain wall"@en ;
+    nif:beginIndex "1674"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1685"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/141_cas#char=178,189> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "transistors"@en ;
+    nif:beginIndex "178"^^xsd:nonNegativeInteger ;
+    nif:endIndex "189"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q55719939> .
+
+<http://example.org/141_cas#char=1867,1891> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic tunnel junction"@en ;
+    nif:beginIndex "1867"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1891"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3843307> .
+
+<http://example.org/141_cas#char=1897,1906> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "patterned"@en ;
+    nif:beginIndex "1897"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1906"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123193372> .
+
+<http://example.org/141_cas#char=1916,1932> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ion beam etching"@en ;
+    nif:beginIndex "1916"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1932"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1672059> .
+
+<http://example.org/141_cas#char=201,208> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "silicon"@en ;
+    nif:beginIndex "201"^^xsd:nonNegativeInteger ;
+    nif:endIndex "208"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q670> .
+
+<http://example.org/141_cas#char=2010,2016> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "2010"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2016"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=2042,2051> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "NAND gate"@en ;
+    nif:beginIndex "2042"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2051"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q575178> .
+
+<http://example.org/141_cas#char=223,238> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic device"@en ;
+    nif:beginIndex "223"^^xsd:nonNegativeInteger ;
+    nif:endIndex "238"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123597044> .
+
+<http://example.org/141_cas#char=2296,2303> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "physics"@en ;
+    nif:beginIndex "2296"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2303"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q413> .
+
+<http://example.org/141_cas#char=2305,2322> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "materials science"@en ;
+    nif:beginIndex "2305"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2322"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q228736> .
+
+<http://example.org/141_cas#char=2327,2349> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "electrical engineering"@en ;
+    nif:beginIndex "2327"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2349"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q12346906> .
+
+<http://example.org/141_cas#char=2478,2493> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "nanoelectronics"@en ;
+    nif:beginIndex "2478"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2493"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1479544> .
+
+<http://example.org/141_cas#char=2799,2808> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetism"@en ;
+    nif:beginIndex "2799"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2808"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3294789> .
+
+<http://example.org/141_cas#char=2813,2825> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data storage"@en ;
+    nif:beginIndex "2813"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2825"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q115689039> .
+
+<http://example.org/141_cas#char=426,447> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic logic device"@en ;
+    nif:beginIndex "426"^^xsd:nonNegativeInteger ;
+    nif:endIndex "447"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122846091> .
+
+<http://example.org/141_cas#char=468,479> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "transistors"@en ;
+    nif:beginIndex "468"^^xsd:nonNegativeInteger ;
+    nif:endIndex "479"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q55719939> .
+
+<http://example.org/141_cas#char=490,500> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "logic gate"@en ;
+    nif:beginIndex "490"^^xsd:nonNegativeInteger ;
+    nif:endIndex "500"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q170451> .
+
+<http://example.org/141_cas#char=521,527> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "521"^^xsd:nonNegativeInteger ;
+    nif:endIndex "527"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=542,549> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "modeled"@en ;
+    nif:beginIndex "542"^^xsd:nonNegativeInteger ;
+    nif:endIndex "549"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3317838> .
+
+<http://example.org/141_cas#char=556,604> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "micromagnetic and electrical simulation programs"@en ;
+    nif:beginIndex "556"^^xsd:nonNegativeInteger ;
+    nif:endIndex "604"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122623834> .
+
+<http://example.org/141_cas#char=81,102> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic logic device"@en ;
+    nif:beginIndex "81"^^xsd:nonNegativeInteger ;
+    nif:endIndex "102"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122846091> .
+
+<http://example.org/141_cas#char=844,855> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "domain wall"@en ;
+    nif:beginIndex "844"^^xsd:nonNegativeInteger ;
+    nif:endIndex "855"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/141_cas#char=861,872> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "domain wall"@en ;
+    nif:beginIndex "861"^^xsd:nonNegativeInteger ;
+    nif:endIndex "872"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/141_cas#char=904,908> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "wire"@en ;
+    nif:beginIndex "904"^^xsd:nonNegativeInteger ;
+    nif:endIndex "908"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1788730> .
+
+<http://example.org/142_cas#char=102,105> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MTC"@en ;
+    nif:beginIndex "102"^^xsd:nonNegativeInteger ;
+    nif:endIndex "105"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q30292183> .
+
+<http://example.org/142_cas#char=1026,1037> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Innovate UK"@en ;
+    nif:beginIndex "1026"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1037"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7692585> .
+
+<http://example.org/142_cas#char=1046,1049> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MTC"@en ;
+    nif:beginIndex "1046"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1049"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q30292183> .
+
+<http://example.org/142_cas#char=1160,1169> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "agri-tech"@en ;
+    nif:beginIndex "1160"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1169"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4057127> .
+
+<http://example.org/142_cas#char=1344,1377> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Harper Adams agricultural college"@en ;
+    nif:beginIndex "1344"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1377"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5663364> .
+
+<http://example.org/142_cas#char=1424,1432> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tractors"@en ;
+    nif:beginIndex "1424"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1432"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q39495> .
+
+<http://example.org/142_cas#char=1424,1433> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tractors"@en ;
+    nif:beginIndex "1424"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1433"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q39495> .
+
+<http://example.org/142_cas#char=1500,1506> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "1500"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1506"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=1542,1564> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "intelligent automation"@en ;
+    nif:beginIndex "1542"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1564"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q109527686> .
+
+<http://example.org/142_cas#char=1572,1575> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MTC"@en ;
+    nif:beginIndex "1572"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1575"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q30292183> .
+
+<http://example.org/142_cas#char=1735,1740> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Robot"@en ;
+    nif:beginIndex "1735"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1740"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=1807,1812> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robot"@en ;
+    nif:beginIndex "1807"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1812"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q10656191> .
+
+<http://example.org/142_cas#char=190,196> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "190"^^xsd:nonNegativeInteger ;
+    nif:endIndex "196"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=201,224> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "artificial intelligence"@en ;
+    nif:beginIndex "201"^^xsd:nonNegativeInteger ;
+    nif:endIndex "224"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11660> .
+
+<http://example.org/142_cas#char=2382,2387> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Robot"@en ;
+    nif:beginIndex "2382"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2387"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=2407,2412> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MTC's"@en ;
+    nif:beginIndex "2407"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2412"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q30292183> .
+
+<http://example.org/142_cas#char=243,250> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "farming"@en ;
+    nif:beginIndex "243"^^xsd:nonNegativeInteger ;
+    nif:endIndex "250"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q24886094> .
+
+<http://example.org/142_cas#char=2469,2476> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "2469"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2476"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=255,270> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "food production"@en ;
+    nif:beginIndex "255"^^xsd:nonNegativeInteger ;
+    nif:endIndex "270"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q627371> .
+
+<http://example.org/142_cas#char=2615,2623> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ROBOTICS"@en ;
+    nif:beginIndex "2615"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2623"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q170978> .
+
+<http://example.org/142_cas#char=337,342> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Robot"@en ;
+    nif:beginIndex "337"^^xsd:nonNegativeInteger ;
+    nif:endIndex "342"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=415,421> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "415"^^xsd:nonNegativeInteger ;
+    nif:endIndex "421"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=458,468> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fertiliser"@en ;
+    nif:beginIndex "458"^^xsd:nonNegativeInteger ;
+    nif:endIndex "468"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q83323> .
+
+<http://example.org/142_cas#char=473,483> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "herbicides"@en ;
+    nif:beginIndex "473"^^xsd:nonNegativeInteger ;
+    nif:endIndex "483"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q178266> .
+
+<http://example.org/142_cas#char=577,587> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "automotive"@en ;
+    nif:beginIndex "577"^^xsd:nonNegativeInteger ;
+    nif:endIndex "587"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q190117> .
+
+<http://example.org/142_cas#char=591,600> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "aerospace"@en ;
+    nif:beginIndex "591"^^xsd:nonNegativeInteger ;
+    nif:endIndex "600"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2876213> .
+
+<http://example.org/142_cas#char=627,635> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "farmbots"@en ;
+    nif:beginIndex "627"^^xsd:nonNegativeInteger ;
+    nif:endIndex "635"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q28134443> .
+
+<http://example.org/142_cas#char=69,100> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Manufacturing Technology Centre"@en ;
+    nif:beginIndex "69"^^xsd:nonNegativeInteger ;
+    nif:endIndex "100"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q30292183> .
+
+<http://example.org/142_cas#char=739,746> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Robots"@en ;
+    nif:beginIndex "739"^^xsd:nonNegativeInteger ;
+    nif:endIndex "746"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=750,753> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AI"@en ;
+    nif:beginIndex "750"^^xsd:nonNegativeInteger ;
+    nif:endIndex "753"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11660> .
+
+<http://example.org/142_cas#char=817,824> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "817"^^xsd:nonNegativeInteger ;
+    nif:endIndex "824"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=955,971> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "National Trust's"@en ;
+    nif:beginIndex "955"^^xsd:nonNegativeInteger ;
+    nif:endIndex "971"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q333515> .
+
+<http://example.org/142_cas#char=972,986> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Wimpole Estate"@en ;
+    nif:beginIndex "972"^^xsd:nonNegativeInteger ;
+    nif:endIndex "986"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q68990657> .
+
+<http://example.org/142_cas#char=0,2623> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2623"^^xsd:nonNegativeInteger ;
+    nif:isString "UK engineers usher in farm 4.0 with agribot trial - Engineers at the Manufacturing Technology Centre (MTC) in Coventry are collaborating with a Hampshire robotics firm on the development of robots and artificial intelligence solutions for the farming and food production sectors. The MTC researchers are working with the firm, the Small Robot Company, on the development of a new generation of digitally-controlled robots that are able to plant seeds, apply fertiliser and herbicides, as well as weed crops with the kind of precision more commonly associated with sectors like automotive or aerospace. The team claims that the farmbots could improve the way food is produced, minimise chemical use, and help increase yield and efficiency. Robots and AI combine for precision future farming platform Prototypes of the robots have been produced and are carrying out field trials on 20 farms across the UK including the Waitrose Leckford Estate Farm and the National Trust's Wimpole Estate. Funding for the project has come from Innovate UK and the MTC, boosted by £1.2 million in crowd-funding. The Small Robot Company, based in Hampshire, was established as an agri-tech start-up by digital entrepreneur Ben Scott-Robinson and fourth generation farmer Sam Watson Jones. They were inspired by work at the National Centre for Precision Farming at Harper Adams agricultural college which suggested that much of the work done by tractors could be done with a series of highly accurate, smart, lightweight robots. Jeremy Hadall, chief engineer for intelligent automation at the MTC, said the technology had the potential to make significant improvements in farm productivity and profitability. \"We are delighted to be working with the Small Robot Company, developing the company's precision drilling and planting robot, which has the potential to improve yields, and therefore profits, while substantially reducing the use of chemicals. The technology harnesses manufacturing advances used in traditional manufacturing industries and allows exceptional accuracy, while creating a map showing the location of each seed,\" he said. \"With growing populations and increasing challenges in farming, using ideas and technologies from other sectors will bring about real innovation and transform the way we feed ourselves in the future,\" Hadall added. Ben Scott-Robinson, co-founder of the Small Robot Company said, \"The MTC's expertise and development help is invaluable to get our robots to market. We have been able to get them working on real farms at scale, which puts us in the vanguard for farming in the future.\" MORE ON ROBOTICS"@en .
+
+<http://example.org/140_cas#char=0,2420> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2420"^^xsd:nonNegativeInteger ;
+    nif:isString "Lift off at AFRC for space propellant tank project - The manufacture of space propellant tanks could be brought back to Britain following an ESA-funded project investigating the best way of making tank parts at close to net shape. Dr Jill Miscandlon (Image: AFRC)During the two-year project Strathclyde University's Advanced Forming Research Centre (AFRC) will use its expertise in forming and forging to advise Airbus Defence and Space – which buys its fuel tanks from Germany or the US – on advanced manufacturing methods for the tanks. Dr Jill Miscandlon, project leader at AFRC, said: \"A tank is generally made of two hemispherical domes and a cylindrical section. The parts are forged, heat-treated and machined down to the required final thickness before they are welded together. They are very thin structures and machining them down from the original thickness results in significant material waste, in addition to the high cost of the machining. \"Over the past four months, we've been looking at methods of achieving near net-shape manufacture, at the same time maintaining the material properties because in space it has to be structurally sound. \"The tanks must be strong enough to store propellant, such as Hydrazine or Xenon gas, under high pressure during a mission's lifetime, which could be more than 25 years. At the same time, for some un-controlled re-entry LEO (Low Earth Orbit) satellite platforms, upon return, they should vaporize upon meeting the upper atmosphere so not to present a risk to people and facilities on Earth.\" The AFRC and Airbus DS are bringing in welding research organisation TWI to help decide the chosen method for producing the tanks. Currently in phase one, the AFRC is advising on the best processes for making efficient parts for the propellant tanks. Dr Miscandlon said: \"Airbus DS will merge their own research experience with our study and decide on the chosen technique to take forward. This could be metal forming, superplastic forming or additive manufacturing processes – all of which would produce the tank parts at close to net shape. \"Key to the project is making components in a shorter lead-time and wasting less expensive material, which is essential with titanium alloys costing up to $60 per kilo, depending on alloy type and manufacturing route. We are also focused on sharing the project outputs with the wider supply chain here in the UK.\" CLICK FOR NEWS"@en .
+
+<http://example.org/141_cas#char=0,2882> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2882"^^xsd:nonNegativeInteger ;
+    nif:isString "Low energy magnetic domain wall logic - The aim of this project was to develop a magnetic logic device. This performs a similar function as a conventional transistor (or several transistors) made from silicon. However, the magnetic device has several potential advantages, including low power consumption, non-volatility which is the ability to ?remember? its state even after the power is switched off, and a small size. One magnetic logic device can replace several transistors to form a logic gate. In the project the device was designed, modeled using micromagnetic and electrical simulation programs, fabrication schemes were developed, and a prototype was built; combinations of devices to carry out complex logic operations were also modeled. The overall arrangement of the device is shown in Fig. 1. A narrow magnetic wire contains one domain wall. The domain wall is moved back and forth on the wire by an electric current pulse which forms the input of the device. When it is on the left the device state is ?1? and on the right the device state is ?0?. The device is switched to ?0? if the current, which is the sum of two input currents, is large enough. Otherwise the state is ?1?. The device therefore performs a NAND function. Modeling showed the feasibility of this approach and allowed calculations of ho the device would perform as its dimensions scaled down, in terms of speed and power consumption. More complex circuits such as a full adder were simulated. Device fabrication involved lithographic steps similar to those used in making silicon electronics. Methods were deviced to etch the magnetic films to produce smooth edges, shown in Figure 2, and domain wall behavior in the thin patterned wires was studied including measurements of domain wall pinning and simulations of the domain wall speed and pinning behavior. The readout element, a magnetic tunnel junction, was patterned using an ion beam etching process. Finally, a prototype device was made and tested. Figure 3 shows the device and its performance as a NAND gate. Combinations of devies are currently being tested to see if more complex logic functions can be carried out. Broader impacts of the work included training of graduate and undergraduate students in interdisciplinary research that spans between physics, materials science and electrical engineering. The findings of the project were incorporated into the PIs? teaching, including classes on magnetic materials and devices, and nanoelectronics. A class entitled Electrical, Optical and Magnetic Materials and Devices was prepared for free worldwide access though the edX platform and will be available to the public in Spring 2015. The PIs participated in summer outreach prgrans such as one for New England teachers introducing them to progress in magnetism and data storage. Last Modified: 07/11/2014 Submitted by: Caroline A Ross"@en .
+
+<http://example.org/139_cas#char=0,1988> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1988"^^xsd:nonNegativeInteger ;
+    nif:isString "Repsol's Plastic Recycling Process to Boost Circular Economy Model - TAGS:   Green and Bioplastics   Repsol has devoted many resources to lead the search for new solutions to boost the Circular Economy and promote that a large amount of plastic waste, which currently goes to landfill, be transformed into new raw material for its petrochemical processes. Chemical Recycling of Plastic Waste The Zero project is an initiative that Repsol has implemented to take advantage of the synthetic oils, obtained from the chemical recycling of plastic waste streams at the end of their life cycle, that cannot be otherwise recycled in a traditional mechanical way. Thus, Repsol has been working for a while, together with various companies with these new technologies and products, accomplishing in 2015 to experimentally feed these products on an industrial scale in its Puertollano complex. Repsol's Refining and Chemical Businesses Through this technology, plastic polymers are transformed into hydrocarbons or pyrolysis oils that can be reintroduced in the petrochemical industry. This presents a transversal opportunity to support the circular economy, allowing Repsol's Refining and Chemical businesses to deliver potential benefits to society. On the one hand, with an alternative raw material for the Refining business, and on the other hand, a mean for Repsol's Chemical business to offer its clients polymers from a \"plastic to plastic\" source with equivalent properties to those of virgin polymers. A potential solution to the problem of plastic waste to landfill, based on the circular economy, to close their life cycle. Plastics' Chemical Recycling Alternatives The plastics' chemical recycling alternatives, which are beginning their industrial scale-up, complement existing ones, such as, the mechanical recycling, where Repsol also has focused their efforts through its Reciclex product range, which incorporates a percentage of plastic recycled in its formulation. Source: Repsol"@en .
+
+<http://example.org/138_cas#char=0,3695> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3695"^^xsd:nonNegativeInteger ;
+    nif:isString "\"Samsung takes aim at blood pressure monitoring with the Galaxy Watch Active - Samsung has launched a new smartwatch that might just take the health and wellness capabilities of the common wearable into new territory. In addition to standard features like sleep and heart rate tracking, the company claims its new Galaxy Watch Active will be able to keep tabs on blood pressure, promising a more complete picture of health taken from the user's wrist. Unveiled amid the fanfare of its first folding phone, the Galaxy Watch Active is a sport-oriented wristwatch with a 40-mm-diameter (1.57-in) face bearing a 1.1-inch (28-mm) color display coated in Gorilla Glass 3. The 20-mm (0.8 in) swappable straps bring the total weight to 25 g (0.9 oz), while available colors are silver, black, rose gold and sea green. The Galaxy Watch Active runs Samsung's Tizen-based Wearable OS 4.0 and is powered by a 230 mAh battery, which is less than half that of a large-sized Galaxy Watch. Also onboard is 768 MB of RAM and 4 GB of internal memory. Compatible with both Android and iOS devices, the Galaxy Watch Active runs useful third-party apps such as Spotify, Under Armour and Strava, and also supports voice control via Samsung's Bixby assistant. Fans of Samsung's Smartwatches so far will note the omission of the rotating bezel, which we've found to be a very intuitive way to scroll through screens and text on its earlier timepieces. But blood pressure data is where the Galaxy Watch Active may bring something new to the table. We say \"\"may\"\" because the feature is still in beta and only available in five countries. From March 15, owners in the US, Singapore, Australia, Canada and Germany will be able to download the company's My BP Lab app, which was developed with researchers from University of California, San Francisco (UCSF). There's not a whole lot of detail just yet on how this will work, but the Galaxy Watch Active is the first from Samsung to carry such a claim. The Apple Watch can offer this functionality but requires a third-party connected device such as the QardioArm smart blood pressure monitor, which plays with the wearable via a dedicated Apple Watch app. The Omron Heartguide watch, which launched at CES last month, is billed as the first FDA-approved smartwatch capable of monitoring blood pressure in the US. Dovetailing with this functionality is the inclusion of guided breathing exercises designed to promote focus and keep stress levels in check. On the activity side of things, meanwhile, Samsung says the watch will automatically detect when its owner is running, cycling, rowing or using an elliptical trainer. Samsung launched a couple of other wearables alongside its new Galaxy Watch Active. The first is a slimmer wrist-worn activity tracker called the Galaxy Fit that syncs with a smartphone to track activity across 90 different types of workouts, along with sleep monitoring, Both the Galaxy Fit and Galaxy Watch Active are feature a 5ATM water resistance rating. The other item is a set of Galaxy wireless earbuds offering up to six hours of playtime over Bluetooth 5.0 and fast wireless charging when placed in either the small carry case or against new Samsung Galaxy S10 smartphone. These also offer Bixby support for voice control over calls and texts or to check in on the battery life. Both the Galaxy buds and the Galaxy Watch Active will be available from March 8, and priced at US$200 and $130 respectively. The Galaxy buds will actually come free with pre-orders for the new Galaxy S10 or Galaxy S10+ for a limited time, while the Galaxy Fit will become available sometime in the second quarter of 2019. Source: SamsungView gallery - 14 images\""@en .
+

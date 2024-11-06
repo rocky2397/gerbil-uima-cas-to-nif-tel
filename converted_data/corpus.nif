@@ -1,0 +1,2125 @@
+@prefix itsrdf: <http://www.w3.org/2005/11/its/rdf#> .
+@prefix nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/138_cas#char=106,116> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "smartwatch"@en ;
+    nif:beginIndex "106"^^xsd:nonNegativeInteger ;
+    nif:endIndex "116"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=1083,1102> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "1083"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1102"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=1140,1147> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Spotify"@en ;
+    nif:beginIndex "1140"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1147"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60269744> .
+
+<http://example.org/138_cas#char=1149,1161> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Under Armour"@en ;
+    nif:beginIndex "1149"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1161"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2031485> .
+
+<http://example.org/138_cas#char=1166,1172> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Strava"@en ;
+    nif:beginIndex "1166"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1172"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q13884156> .
+
+<http://example.org/138_cas#char=1192,1205> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "voice control"@en ;
+    nif:beginIndex "1192"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1205"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123284935> .
+
+<http://example.org/138_cas#char=1220,1235> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bixby assistant"@en ;
+    nif:beginIndex "1220"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1235"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q28518308> .
+
+<http://example.org/138_cas#char=1255,1267> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Smartwatches"@en ;
+    nif:beginIndex "1255"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1267"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=1432,1451> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure data"@en ;
+    nif:beginIndex "1432"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1451"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124158718> .
+
+<http://example.org/138_cas#char=1465,1484> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "1465"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1484"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=1905,1924> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "1905"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1924"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=1978,1989> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Apple Watch"@en ;
+    nif:beginIndex "1978"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1989"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q18010946> .
+
+<http://example.org/138_cas#char=2075,2113> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "QardioArm smart blood pressure monitor"@en ;
+    nif:beginIndex "2075"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2113"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q91598103> .
+
+<http://example.org/138_cas#char=2161,2172> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Apple Watch"@en ;
+    nif:beginIndex "2161"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2172"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q18010946> .
+
+<http://example.org/138_cas#char=22,47> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure monitoring"@en ;
+    nif:beginIndex "22"^^xsd:nonNegativeInteger ;
+    nif:endIndex "47"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q72567834> .
+
+<http://example.org/138_cas#char=2263,2286> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "FDA-approved smartwatch"@en ;
+    nif:beginIndex "2263"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2286"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5362345> .
+
+<http://example.org/138_cas#char=2537,2542> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "watch"@en ;
+    nif:beginIndex "2537"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2542"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q178794> .
+
+<http://example.org/138_cas#char=2707,2726> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "2707"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2726"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=2790,2800> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Fit"@en ;
+    nif:beginIndex "2790"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2800"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259909> .
+
+<http://example.org/138_cas#char=3031,3054> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy wireless earbuds"@en ;
+    nif:beginIndex "3031"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3054"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q113711206> .
+
+<http://example.org/138_cas#char=314,333> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "314"^^xsd:nonNegativeInteger ;
+    nif:endIndex "333"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=3196,3214> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Samsung Galaxy S10"@en ;
+    nif:beginIndex "3196"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3214"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60021939> .
+
+<http://example.org/138_cas#char=3262,3275> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "voice control"@en ;
+    nif:beginIndex "3262"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3275"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123284935> .
+
+<http://example.org/138_cas#char=363,377> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "blood pressure"@en ;
+    nif:beginIndex "363"^^xsd:nonNegativeInteger ;
+    nif:endIndex "377"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q82642> .
+
+<http://example.org/138_cas#char=510,529> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "510"^^xsd:nonNegativeInteger ;
+    nif:endIndex "529"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=550,560> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "wristwatch"@en ;
+    nif:beginIndex "550"^^xsd:nonNegativeInteger ;
+    nif:endIndex "560"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q76479467> .
+
+<http://example.org/138_cas#char=57,76> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "57"^^xsd:nonNegativeInteger ;
+    nif:endIndex "76"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=649,664> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Gorilla Glass 3"@en ;
+    nif:beginIndex "649"^^xsd:nonNegativeInteger ;
+    nif:endIndex "664"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q268706> .
+
+<http://example.org/138_cas#char=814,833> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch Active"@en ;
+    nif:beginIndex "814"^^xsd:nonNegativeInteger ;
+    nif:endIndex "833"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q65259897> .
+
+<http://example.org/138_cas#char=960,972> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Galaxy Watch"@en ;
+    nif:beginIndex "960"^^xsd:nonNegativeInteger ;
+    nif:endIndex "972"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/138_cas#char=0,3695> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q56071642> .
+
+<http://example.org/139_cas#char=1005,1019> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "pyrolysis oils"@en ;
+    nif:beginIndex "1005"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1019"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q898694> .
+
+<http://example.org/139_cas#char=1052,1074> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "petrochemical industry"@en ;
+    nif:beginIndex "1052"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1074"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q16070574> .
+
+<http://example.org/139_cas#char=237,244> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic"@en ;
+    nif:beginIndex "237"^^xsd:nonNegativeInteger ;
+    nif:endIndex "244"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=331,354> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "petrochemical processes"@en ;
+    nif:beginIndex "331"^^xsd:nonNegativeInteger ;
+    nif:endIndex "354"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q493630> .
+
+<http://example.org/139_cas#char=356,374> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Chemical Recycling"@en ;
+    nif:beginIndex "356"^^xsd:nonNegativeInteger ;
+    nif:endIndex "374"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60609206> .
+
+<http://example.org/139_cas#char=378,385> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastic"@en ;
+    nif:beginIndex "378"^^xsd:nonNegativeInteger ;
+    nif:endIndex "385"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=479,493> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "synthetic oils"@en ;
+    nif:beginIndex "479"^^xsd:nonNegativeInteger ;
+    nif:endIndex "493"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q902134> .
+
+<http://example.org/139_cas#char=535,542> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastic"@en ;
+    nif:beginIndex "535"^^xsd:nonNegativeInteger ;
+    nif:endIndex "542"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=87,98> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Bioplastics"@en ;
+    nif:beginIndex "87"^^xsd:nonNegativeInteger ;
+    nif:endIndex "98"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q413458> .
+
+<http://example.org/139_cas#char=9,16> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastic"@en ;
+    nif:beginIndex "9"^^xsd:nonNegativeInteger ;
+    nif:endIndex "16"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/139_cas#char=989,1001> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "hydrocarbons"@en ;
+    nif:beginIndex "989"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1001"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/139_cas#char=0,1988> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q43648> .
+
+<http://example.org/140_cas#char=1199,1209> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "propellant"@en ;
+    nif:beginIndex "1199"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1209"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1364934> .
+
+<http://example.org/140_cas#char=1219,1228> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Hydrazine"@en ;
+    nif:beginIndex "1219"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1228"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q58447> .
+
+<http://example.org/140_cas#char=1953,1958> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "metal"@en ;
+    nif:beginIndex "1953"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1958"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11426> .
+
+<http://example.org/140_cas#char=1953,1966> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "metal forming"@en ;
+    nif:beginIndex "1953"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1966"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q59629737> .
+
+<http://example.org/140_cas#char=1968,1988> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "superplastic forming"@en ;
+    nif:beginIndex "1968"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1988"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4410207> .
+
+<http://example.org/140_cas#char=1992,2014> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "additive manufacturing"@en ;
+    nif:beginIndex "1992"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2014"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q360931> .
+
+<http://example.org/140_cas#char=2217,2225> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "titanium"@en ;
+    nif:beginIndex "2217"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2225"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q716> .
+
+<http://example.org/140_cas#char=2274,2279> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "alloy"@en ;
+    nif:beginIndex "2274"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2279"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q37756> .
+
+<http://example.org/140_cas#char=382,389> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "forming"@en ;
+    nif:beginIndex "382"^^xsd:nonNegativeInteger ;
+    nif:endIndex "389"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5470205> .
+
+<http://example.org/140_cas#char=394,401> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "forging"@en ;
+    nif:beginIndex "394"^^xsd:nonNegativeInteger ;
+    nif:endIndex "401"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q193057> .
+
+<http://example.org/140_cas#char=454,464> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fuel tanks"@en ;
+    nif:beginIndex "454"^^xsd:nonNegativeInteger ;
+    nif:endIndex "464"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1411232> .
+
+<http://example.org/140_cas#char=683,689> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "forged"@en ;
+    nif:beginIndex "683"^^xsd:nonNegativeInteger ;
+    nif:endIndex "689"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q193057> .
+
+<http://example.org/140_cas#char=691,703> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "heat-treated"@en ;
+    nif:beginIndex "691"^^xsd:nonNegativeInteger ;
+    nif:endIndex "703"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1458918> .
+
+<http://example.org/140_cas#char=770,785> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "welded together"@en ;
+    nif:beginIndex "770"^^xsd:nonNegativeInteger ;
+    nif:endIndex "785"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q131172> .
+
+<http://example.org/140_cas#char=821,840> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machining them down"@en ;
+    nif:beginIndex "821"^^xsd:nonNegativeInteger ;
+    nif:endIndex "840"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q131172> .
+
+<http://example.org/140_cas#char=944,953> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machining"@en ;
+    nif:beginIndex "944"^^xsd:nonNegativeInteger ;
+    nif:endIndex "953"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/140_cas#char=0,2420> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q192047> .
+
+<http://example.org/141_cas#char=11,31> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic domain wall"@en ;
+    nif:beginIndex "11"^^xsd:nonNegativeInteger ;
+    nif:endIndex "31"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/141_cas#char=1242,1250> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Modeling"@en ;
+    nif:beginIndex "1242"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1250"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3317838> .
+
+<http://example.org/141_cas#char=155,165> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "transistor"@en ;
+    nif:beginIndex "155"^^xsd:nonNegativeInteger ;
+    nif:endIndex "165"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q55719939> .
+
+<http://example.org/141_cas#char=1557,1564> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "silicon"@en ;
+    nif:beginIndex "1557"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1564"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q670> .
+
+<http://example.org/141_cas#char=1602,1606> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "etch"@en ;
+    nif:beginIndex "1602"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1606"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2368605> .
+
+<http://example.org/141_cas#char=178,189> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "transistors"@en ;
+    nif:beginIndex "178"^^xsd:nonNegativeInteger ;
+    nif:endIndex "189"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q55719939> .
+
+<http://example.org/141_cas#char=1897,1906> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "patterned"@en ;
+    nif:beginIndex "1897"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1906"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123193372> .
+
+<http://example.org/141_cas#char=201,208> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "silicon"@en ;
+    nif:beginIndex "201"^^xsd:nonNegativeInteger ;
+    nif:endIndex "208"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q670> .
+
+<http://example.org/141_cas#char=223,238> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic device"@en ;
+    nif:beginIndex "223"^^xsd:nonNegativeInteger ;
+    nif:endIndex "238"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123597044> .
+
+<http://example.org/141_cas#char=2296,2303> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "physics"@en ;
+    nif:beginIndex "2296"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2303"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q413> .
+
+<http://example.org/141_cas#char=2305,2322> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "materials science"@en ;
+    nif:beginIndex "2305"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2322"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q228736> .
+
+<http://example.org/141_cas#char=2327,2349> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "electrical engineering"@en ;
+    nif:beginIndex "2327"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2349"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q12346906> .
+
+<http://example.org/141_cas#char=426,447> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic logic device"@en ;
+    nif:beginIndex "426"^^xsd:nonNegativeInteger ;
+    nif:endIndex "447"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122846091> .
+
+<http://example.org/141_cas#char=468,479> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "transistors"@en ;
+    nif:beginIndex "468"^^xsd:nonNegativeInteger ;
+    nif:endIndex "479"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q55719939> .
+
+<http://example.org/141_cas#char=490,500> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "logic gate"@en ;
+    nif:beginIndex "490"^^xsd:nonNegativeInteger ;
+    nif:endIndex "500"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q170451> .
+
+<http://example.org/141_cas#char=521,527> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "device"@en ;
+    nif:beginIndex "521"^^xsd:nonNegativeInteger ;
+    nif:endIndex "527"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123459084> .
+
+<http://example.org/141_cas#char=542,549> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "modeled"@en ;
+    nif:beginIndex "542"^^xsd:nonNegativeInteger ;
+    nif:endIndex "549"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3317838> .
+
+<http://example.org/141_cas#char=556,604> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "micromagnetic and electrical simulation programs"@en ;
+    nif:beginIndex "556"^^xsd:nonNegativeInteger ;
+    nif:endIndex "604"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122623834> .
+
+<http://example.org/141_cas#char=81,102> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "magnetic logic device"@en ;
+    nif:beginIndex "81"^^xsd:nonNegativeInteger ;
+    nif:endIndex "102"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q122846091> .
+
+<http://example.org/141_cas#char=844,855> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "domain wall"@en ;
+    nif:beginIndex "844"^^xsd:nonNegativeInteger ;
+    nif:endIndex "855"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/141_cas#char=861,872> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "domain wall"@en ;
+    nif:beginIndex "861"^^xsd:nonNegativeInteger ;
+    nif:endIndex "872"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/141_cas#char=0,2882> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2591394> .
+
+<http://example.org/142_cas#char=1424,1432> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tractors"@en ;
+    nif:beginIndex "1424"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1432"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q39495> .
+
+<http://example.org/142_cas#char=1542,1564> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "intelligent automation"@en ;
+    nif:beginIndex "1542"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1564"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q109527686> .
+
+<http://example.org/142_cas#char=190,196> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "190"^^xsd:nonNegativeInteger ;
+    nif:endIndex "196"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=201,224> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "artificial intelligence"@en ;
+    nif:beginIndex "201"^^xsd:nonNegativeInteger ;
+    nif:endIndex "224"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11660> .
+
+<http://example.org/142_cas#char=2615,2623> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ROBOTICS"@en ;
+    nif:beginIndex "2615"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2623"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q170978> .
+
+<http://example.org/142_cas#char=337,342> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Robot"@en ;
+    nif:beginIndex "337"^^xsd:nonNegativeInteger ;
+    nif:endIndex "342"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=415,421> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robots"@en ;
+    nif:beginIndex "415"^^xsd:nonNegativeInteger ;
+    nif:endIndex "421"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/142_cas#char=458,468> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fertiliser"@en ;
+    nif:beginIndex "458"^^xsd:nonNegativeInteger ;
+    nif:endIndex "468"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q83323> .
+
+<http://example.org/142_cas#char=473,483> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "herbicides"@en ;
+    nif:beginIndex "473"^^xsd:nonNegativeInteger ;
+    nif:endIndex "483"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q178266> .
+
+<http://example.org/142_cas#char=591,600> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "aerospace"@en ;
+    nif:beginIndex "591"^^xsd:nonNegativeInteger ;
+    nif:endIndex "600"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2876213> .
+
+<http://example.org/142_cas#char=627,635> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "farmbots"@en ;
+    nif:beginIndex "627"^^xsd:nonNegativeInteger ;
+    nif:endIndex "635"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/142_cas#char=0,2623> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q28134443> .
+
+<http://example.org/143_cas#char=1399,1407> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "orlistat"@en ;
+    nif:beginIndex "1399"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1407"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/143_cas#char=0,2516> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q424163> .
+
+<http://example.org/143_cas#char=289,293> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "clay"@en ;
+    nif:beginIndex "289"^^xsd:nonNegativeInteger ;
+    nif:endIndex "293"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/143_cas#char=0,2516> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q42302> .
+
+<http://example.org/143_cas#char=477,481> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "clay"@en ;
+    nif:beginIndex "477"^^xsd:nonNegativeInteger ;
+    nif:endIndex "481"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/143_cas#char=0,2516> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q42302> .
+
+<http://example.org/144_cas#char=1194,1205> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data system"@en ;
+    nif:beginIndex "1194"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1205"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q76221> .
+
+<http://example.org/144_cas#char=1228,1232> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data"@en ;
+    nif:beginIndex "1228"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1232"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q42848> .
+
+<http://example.org/144_cas#char=1252,1258> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ship's"@en ;
+    nif:beginIndex "1252"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1258"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11446> .
+
+<http://example.org/144_cas#char=1259,1272> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "echo sounders"@en ;
+    nif:beginIndex "1259"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1272"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q12572069> .
+
+<http://example.org/144_cas#char=1294,1313> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "navigational system"@en ;
+    nif:beginIndex "1294"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1313"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3475123> .
+
+<http://example.org/144_cas#char=1339,1373> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "acoustic Doppler current profiler,"@en ;
+    nif:beginIndex "1339"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1373"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q624383> .
+
+<http://example.org/144_cas#char=143,168> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Research Vessel, Savannah"@en ;
+    nif:beginIndex "143"^^xsd:nonNegativeInteger ;
+    nif:endIndex "168"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q391022> .
+
+<http://example.org/144_cas#char=1867,1876> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "profiling"@en ;
+    nif:beginIndex "1867"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1876"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1138496> .
+
+<http://example.org/144_cas#char=1881,1895> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "water sampling"@en ;
+    nif:beginIndex "1881"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1895"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q30032096> .
+
+<http://example.org/144_cas#char=217,229> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Oceanography"@en ;
+    nif:beginIndex "217"^^xsd:nonNegativeInteger ;
+    nif:endIndex "229"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q43518> .
+
+<http://example.org/144_cas#char=244,250> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "vessel"@en ;
+    nif:beginIndex "244"^^xsd:nonNegativeInteger ;
+    nif:endIndex "250"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/144_cas#char=0,2083> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q16391167> .
+
+<http://example.org/145_cas#char=1144,1150> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tailor"@en ;
+    nif:beginIndex "1144"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1150"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q28873643> .
+
+<http://example.org/145_cas#char=1254,1264> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "energetics"@en ;
+    nif:beginIndex "1254"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1264"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q719597> .
+
+<http://example.org/145_cas#char=136,143> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Ceramic"@en ;
+    nif:beginIndex "136"^^xsd:nonNegativeInteger ;
+    nif:endIndex "143"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q45621> .
+
+<http://example.org/145_cas#char=263,268> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "steel"@en ;
+    nif:beginIndex "263"^^xsd:nonNegativeInteger ;
+    nif:endIndex "268"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11427> .
+
+<http://example.org/145_cas#char=414,430> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "nuclear reactors"@en ;
+    nif:beginIndex "414"^^xsd:nonNegativeInteger ;
+    nif:endIndex "430"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q80877> .
+
+<http://example.org/145_cas#char=435,452> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "radioactive waste"@en ;
+    nif:beginIndex "435"^^xsd:nonNegativeInteger ;
+    nif:endIndex "452"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q185252> .
+
+<http://example.org/145_cas#char=512,518> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "oxides"@en ;
+    nif:beginIndex "512"^^xsd:nonNegativeInteger ;
+    nif:endIndex "518"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q50690> .
+
+<http://example.org/145_cas#char=83,99> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Oxide-dispersion"@en ;
+    nif:beginIndex "83"^^xsd:nonNegativeInteger ;
+    nif:endIndex "99"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/145_cas#char=0,1665> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q50690> .
+
+<http://example.org/146_cas#char=1334,1344> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "solid fuel"@en ;
+    nif:beginIndex "1334"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1344"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1408429> .
+
+<http://example.org/146_cas#char=2038,2042> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "heat"@en ;
+    nif:beginIndex "2038"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2042"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q44432> .
+
+<http://example.org/146_cas#char=2065,2078> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "high-nitrogen"@en ;
+    nif:beginIndex "2065"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2078"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q627> .
+
+<http://example.org/146_cas#char=2080,2098> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "high-hydrogen fuel"@en ;
+    nif:beginIndex "2080"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2098"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11549077> .
+
+<http://example.org/146_cas#char=21,38> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "propulsion system"@en ;
+    nif:beginIndex "21"^^xsd:nonNegativeInteger ;
+    nif:endIndex "38"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q29380218> .
+
+<http://example.org/146_cas#char=2138,2146> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "hydrogen"@en ;
+    nif:beginIndex "2138"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2146"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q556> .
+
+<http://example.org/146_cas#char=378,396> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "CubeSat propulsion"@en ;
+    nif:beginIndex "378"^^xsd:nonNegativeInteger ;
+    nif:endIndex "396"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2583685> .
+
+<http://example.org/146_cas#char=49,59> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "satellites"@en ;
+    nif:beginIndex "49"^^xsd:nonNegativeInteger ;
+    nif:endIndex "59"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1297322> .
+
+<http://example.org/146_cas#char=512,521> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "hydrazine"@en ;
+    nif:beginIndex "512"^^xsd:nonNegativeInteger ;
+    nif:endIndex "521"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q58447> .
+
+<http://example.org/146_cas#char=537,543> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "gasses"@en ;
+    nif:beginIndex "537"^^xsd:nonNegativeInteger ;
+    nif:endIndex "543"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11432> .
+
+<http://example.org/146_cas#char=62,70> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Cubesats"@en ;
+    nif:beginIndex "62"^^xsd:nonNegativeInteger ;
+    nif:endIndex "70"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1142930> .
+
+<http://example.org/146_cas#char=905,922> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "propulsion system"@en ;
+    nif:beginIndex "905"^^xsd:nonNegativeInteger ;
+    nif:endIndex "922"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/146_cas#char=0,3015> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q29380218> .
+
+<http://example.org/147_cas#char=0,2749> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2749"^^xsd:nonNegativeInteger ;
+    nif:isString "Systematics and Biogeography of Scolecophidian Snakes - The blindsnakes (scolecophidians) are the most poorly known of all snakes in terms of number of species, relationships, distribution, and how they live (ecology). They are burrowing reptiles that feed primarily on small, social insects such as ants, termites, and their larvae. They include the smallest snakes and they rarely exceed 30 centimeters (12 inches) in length. Most species resemble earth worms and have small eyes and a pinkish or brownish, tubular-shaped body with smooth scales. Blindsnakes are distributed on all continents except Antarctica, and occur in the United States. The two major groups of blindsnakes are the threadsnakes (leptotyphlopids), which are very thin and occur mainly in South America and Africa, and the typical blindsnakes (typhlopoids), which occur there and on other continents. A third group (anomalepidids) occurs in Central and South America. It is known from fossils and molecular evidence that scolecophidians are also the oldest snakes, most likely to have been influenced by continental drift in their history. Ecologically, they are an important part of the soil community in many areas around the world. This project involved a team of researchers assembled to investigate the relationships of these organisms with molecular data, to improve their classification and better understand their biogeographic history. This was accomplished in a series of studies that were conducted and published. They learned that the geologic separation of Africa and South America isolated the threadsnakes on those two continents, influencing their later relationships. Subsequently, threadsnakes reached North America and Caribbean islands by dispersal from South America. In a separate study on typical blindsnakes, these researchers found that continental drift also had a major impact on their historical biogeography and relationships. Snakes now occurring in India and Madagascar diverged from one another at the time when those two land masses split apart in the geologic past. The later history of typical blindsnakes was further influenced by continental drift, dispersal, and the radiation of social insects. As a result of this work, the classifications of these snakes were revised and many unrecognized species were discovered. This project involved undergraduate and graduate students, as well as collaborators from three other continents. The results now raise awareness of the importance of these animals that were otherwise poorly known, and the revised classifications are being used agencies charged with managing and protecting the environment, and by educators and other researchers. Last Modified: 10/14/2012 Submitted by: Stephen B Hedges"@en .
+
+<http://example.org/148_cas#char=1111,1128> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "filtration system"@en ;
+    nif:beginIndex "1111"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1128"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123528483> .
+
+<http://example.org/148_cas#char=1178,1190> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "HEPA filters"@en ;
+    nif:beginIndex "1178"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1190"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q948441> .
+
+<http://example.org/148_cas#char=118,134> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "air purification"@en ;
+    nif:beginIndex "118"^^xsd:nonNegativeInteger ;
+    nif:endIndex "134"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5334286> .
+
+<http://example.org/148_cas#char=1212,1226> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "vacuum cleaner"@en ;
+    nif:beginIndex "1212"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1226"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q101674> .
+
+<http://example.org/148_cas#char=1457,1471> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "bladeless fans"@en ;
+    nif:beginIndex "1457"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1471"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11085537> .
+
+<http://example.org/148_cas#char=1510,1538> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "360-degree glass HEPA filter"@en ;
+    nif:beginIndex "1510"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1538"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q948441> .
+
+<http://example.org/148_cas#char=1547,1566> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ultrafine particles"@en ;
+    nif:beginIndex "1547"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1566"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7880535> .
+
+<http://example.org/148_cas#char=1572,1578> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "filter"@en ;
+    nif:beginIndex "1572"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1578"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q736556> .
+
+<http://example.org/148_cas#char=1590,1602> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "borosilicate"@en ;
+    nif:beginIndex "1590"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1602"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1422588> .
+
+<http://example.org/148_cas#char=1802,1808> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "carbon"@en ;
+    nif:beginIndex "1802"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1808"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q623> .
+
+<http://example.org/148_cas#char=1832,1837> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fumes"@en ;
+    nif:beginIndex "1832"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1837"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q12348691> .
+
+<http://example.org/148_cas#char=1843,1849> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "vapors"@en ;
+    nif:beginIndex "1843"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1849"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q255722> .
+
+<http://example.org/148_cas#char=2301,2320> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ultrafine particles"@en ;
+    nif:beginIndex "2301"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2320"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7880535> .
+
+<http://example.org/148_cas#char=31,43> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "air purifier"@en ;
+    nif:beginIndex "31"^^xsd:nonNegativeInteger ;
+    nif:endIndex "43"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1196206> .
+
+<http://example.org/148_cas#char=576,581> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "gases"@en ;
+    nif:beginIndex "576"^^xsd:nonNegativeInteger ;
+    nif:endIndex "581"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11432> .
+
+<http://example.org/148_cas#char=587,602> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "carbon monoxide"@en ;
+    nif:beginIndex "587"^^xsd:nonNegativeInteger ;
+    nif:endIndex "602"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2025> .
+
+<http://example.org/148_cas#char=63,70> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "vacuums"@en ;
+    nif:beginIndex "63"^^xsd:nonNegativeInteger ;
+    nif:endIndex "70"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q101674> .
+
+<http://example.org/148_cas#char=635,639> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "soot"@en ;
+    nif:beginIndex "635"^^xsd:nonNegativeInteger ;
+    nif:endIndex "639"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q13174856> .
+
+<http://example.org/148_cas#char=654,675> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "microscopic particles"@en ;
+    nif:beginIndex "654"^^xsd:nonNegativeInteger ;
+    nif:endIndex "675"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q52186249> .
+
+<http://example.org/148_cas#char=75,79> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fans"@en ;
+    nif:beginIndex "75"^^xsd:nonNegativeInteger ;
+    nif:endIndex "79"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q13094332> .
+
+<http://example.org/148_cas#char=755,774> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "ultrafine particles"@en ;
+    nif:beginIndex "755"^^xsd:nonNegativeInteger ;
+    nif:endIndex "774"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q22306521> .
+
+<http://example.org/148_cas#char=912,924> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "air purifier"@en ;
+    nif:beginIndex "912"^^xsd:nonNegativeInteger ;
+    nif:endIndex "924"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/148_cas#char=0,2823> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1196206> .
+
+<http://example.org/149_cas#char=1449,1458> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robot arm"@en ;
+    nif:beginIndex "1449"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1458"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q118289800> .
+
+<http://example.org/149_cas#char=1672,1677> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "track"@en ;
+    nif:beginIndex "1672"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1677"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1741372> .
+
+<http://example.org/149_cas#char=1682,1687> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "remap"@en ;
+    nif:beginIndex "1682"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1687"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7311535> .
+
+<http://example.org/149_cas#char=218,223> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robot"@en ;
+    nif:beginIndex "218"^^xsd:nonNegativeInteger ;
+    nif:endIndex "223"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/149_cas#char=2433,2446> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "meta-learning"@en ;
+    nif:beginIndex "2433"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2446"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q6822311> .
+
+<http://example.org/149_cas#char=2573,2600> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "One-Shot Imitation Learning"@en ;
+    nif:beginIndex "2573"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2600"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q44547074> .
+
+<http://example.org/149_cas#char=2619,2632> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "meta-learning"@en ;
+    nif:beginIndex "2619"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2632"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q6822311> .
+
+<http://example.org/149_cas#char=3548,3561> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "teleoperation"@en ;
+    nif:beginIndex "3548"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3561"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3982902> .
+
+<http://example.org/149_cas#char=3782,3795> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "meta-learning"@en ;
+    nif:beginIndex "3782"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3795"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q6822311> .
+
+<http://example.org/149_cas#char=4078,4084> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "camera"@en ;
+    nif:beginIndex "4078"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4084"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q15328> .
+
+<http://example.org/149_cas#char=4290,4299> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "algorithm"@en ;
+    nif:beginIndex "4290"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4299"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q8366> .
+
+<http://example.org/149_cas#char=602,625> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "teleoperating the robot"@en ;
+    nif:beginIndex "602"^^xsd:nonNegativeInteger ;
+    nif:endIndex "625"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q61735059> .
+
+<http://example.org/149_cas#char=7653,7657> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data"@en ;
+    nif:beginIndex "7653"^^xsd:nonNegativeInteger ;
+    nif:endIndex "7657"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q18350407> .
+
+<http://example.org/149_cas#char=847,860> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "teleoperation"@en ;
+    nif:beginIndex "847"^^xsd:nonNegativeInteger ;
+    nif:endIndex "860"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3982902> .
+
+<http://example.org/149_cas#char=911,929> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "imitation learning"@en ;
+    nif:beginIndex "911"^^xsd:nonNegativeInteger ;
+    nif:endIndex "929"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/149_cas#char=0,9951> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q124742024> .
+
+<http://example.org/150_cas#char=109,131> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "additive manufacturing"@en ;
+    nif:beginIndex "109"^^xsd:nonNegativeInteger ;
+    nif:endIndex "131"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q360931> .
+
+<http://example.org/150_cas#char=133,144> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "3D printing"@en ;
+    nif:beginIndex "133"^^xsd:nonNegativeInteger ;
+    nif:endIndex "144"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q229367> .
+
+<http://example.org/150_cas#char=146,152> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "design"@en ;
+    nif:beginIndex "146"^^xsd:nonNegativeInteger ;
+    nif:endIndex "152"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q82604> .
+
+<http://example.org/150_cas#char=493,504> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "3D printing"@en ;
+    nif:beginIndex "493"^^xsd:nonNegativeInteger ;
+    nif:endIndex "504"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q229367> .
+
+<http://example.org/150_cas#char=506,528> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "additive manufacturing"@en ;
+    nif:beginIndex "506"^^xsd:nonNegativeInteger ;
+    nif:endIndex "528"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q360931> .
+
+<http://example.org/150_cas#char=543,552> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "metrology"@en ;
+    nif:beginIndex "543"^^xsd:nonNegativeInteger ;
+    nif:endIndex "552"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q394> .
+
+<http://example.org/150_cas#char=675,683> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "moulding"@en ;
+    nif:beginIndex "675"^^xsd:nonNegativeInteger ;
+    nif:endIndex "683"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1055732> .
+
+<http://example.org/150_cas#char=685,692> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "casting"@en ;
+    nif:beginIndex "685"^^xsd:nonNegativeInteger ;
+    nif:endIndex "692"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q496098> .
+
+<http://example.org/150_cas#char=697,710> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "CNC machining"@en ;
+    nif:beginIndex "697"^^xsd:nonNegativeInteger ;
+    nif:endIndex "710"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q99467294> .
+
+<http://example.org/150_cas#char=784,795> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "engineering"@en ;
+    nif:beginIndex "784"^^xsd:nonNegativeInteger ;
+    nif:endIndex "795"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q108375738> .
+
+<http://example.org/150_cas#char=800,813> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "manufacturing"@en ;
+    nif:beginIndex "800"^^xsd:nonNegativeInteger ;
+    nif:endIndex "813"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/150_cas#char=0,1556> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q187939> .
+
+<http://example.org/151_cas#char=1718,1746> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data collection and analysis"@en ;
+    nif:beginIndex "1718"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1746"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/151_cas#char=0,7811> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q58321517> .
+
+<http://example.org/151_cas#char=195,204> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "recycling"@en ;
+    nif:beginIndex "195"^^xsd:nonNegativeInteger ;
+    nif:endIndex "204"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/151_cas#char=0,7811> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q132580> .
+
+<http://example.org/151_cas#char=1995,2031> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Manufacturing Execution System (MES)"@en ;
+    nif:beginIndex "1995"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2031"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/151_cas#char=0,7811> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1404943> .
+
+<http://example.org/151_cas#char=2051,2054> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MES"@en ;
+    nif:beginIndex "2051"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2054"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/151_cas#char=0,7811> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1404943> .
+
+<http://example.org/151_cas#char=6,11> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "paper"@en ;
+    nif:beginIndex "6"^^xsd:nonNegativeInteger ;
+    nif:endIndex "11"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/151_cas#char=0,7811> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11472> .
+
+<http://example.org/151_cas#char=681,699> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "recycled materials"@en ;
+    nif:beginIndex "681"^^xsd:nonNegativeInteger ;
+    nif:endIndex "699"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/151_cas#char=0,7811> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q37328535> .
+
+<http://example.org/152_cas#char=255,267> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "polyurethane"@en ;
+    nif:beginIndex "255"^^xsd:nonNegativeInteger ;
+    nif:endIndex "267"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/152_cas#char=0,2322> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q146322> .
+
+<http://example.org/152_cas#char=255,272> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "polyurethane foam"@en ;
+    nif:beginIndex "255"^^xsd:nonNegativeInteger ;
+    nif:endIndex "272"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/152_cas#char=0,2322> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q90733311> .
+
+<http://example.org/152_cas#char=54,57> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "TPU"@en ;
+    nif:beginIndex "54"^^xsd:nonNegativeInteger ;
+    nif:endIndex "57"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/152_cas#char=0,2322> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q408605> .
+
+<http://example.org/152_cas#char=707,715> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "graphene"@en ;
+    nif:beginIndex "707"^^xsd:nonNegativeInteger ;
+    nif:endIndex "715"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/152_cas#char=0,2322> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q58652290> .
+
+<http://example.org/153_cas#char=1225,1233> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "computer"@en ;
+    nif:beginIndex "1225"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1233"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q68> .
+
+<http://example.org/153_cas#char=1238,1246> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Intranet"@en ;
+    nif:beginIndex "1238"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1246"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q483426> .
+
+<http://example.org/153_cas#char=1373,1377> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "IIoT"@en ;
+    nif:beginIndex "1373"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1377"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60740481> .
+
+<http://example.org/153_cas#char=1879,1887> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Internet"@en ;
+    nif:beginIndex "1879"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1887"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q75> .
+
+<http://example.org/153_cas#char=2095,2131> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "IIoT (Industrial Internet of Things)"@en ;
+    nif:beginIndex "2095"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2131"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q60740481> .
+
+<http://example.org/153_cas#char=214,226> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data sources"@en ;
+    nif:beginIndex "214"^^xsd:nonNegativeInteger ;
+    nif:endIndex "226"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q121566744> .
+
+<http://example.org/153_cas#char=2182,2195> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "IoT Protocols"@en ;
+    nif:beginIndex "2182"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2195"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q18761595> .
+
+<http://example.org/153_cas#char=2204,2208> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "MQTT"@en ;
+    nif:beginIndex "2204"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2208"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q10322548> .
+
+<http://example.org/153_cas#char=2210,2214> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "AMQP"@en ;
+    nif:beginIndex "2210"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2214"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q107381831> .
+
+<http://example.org/153_cas#char=2851,2855> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "poll"@en ;
+    nif:beginIndex "2851"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2855"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1362921> .
+
+<http://example.org/153_cas#char=2912,2920> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Internet"@en ;
+    nif:beginIndex "2912"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2920"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q75> .
+
+<http://example.org/153_cas#char=2938,2945> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Servers"@en ;
+    nif:beginIndex "2938"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2945"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q44127> .
+
+<http://example.org/153_cas#char=332,335> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "OPC"@en ;
+    nif:beginIndex "332"^^xsd:nonNegativeInteger ;
+    nif:endIndex "335"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q16077788> .
+
+<http://example.org/153_cas#char=3409,3419> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "encryption"@en ;
+    nif:beginIndex "3409"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3419"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q141090> .
+
+<http://example.org/153_cas#char=426,429> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "COM"@en ;
+    nif:beginIndex "426"^^xsd:nonNegativeInteger ;
+    nif:endIndex "429"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2919255> .
+
+<http://example.org/153_cas#char=434,438> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "DCOM"@en ;
+    nif:beginIndex "434"^^xsd:nonNegativeInteger ;
+    nif:endIndex "438"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q404010> .
+
+<http://example.org/153_cas#char=747,753> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "OPC DA"@en ;
+    nif:beginIndex "747"^^xsd:nonNegativeInteger ;
+    nif:endIndex "753"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/153_cas#char=0,4459> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7072811> .
+
+<http://example.org/154_cas#char=109,135> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plate Boundary Observatory"@en ;
+    nif:beginIndex "109"^^xsd:nonNegativeInteger ;
+    nif:endIndex "135"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7202192> .
+
+<http://example.org/154_cas#char=136,156> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "geodetic instruments"@en ;
+    nif:beginIndex "136"^^xsd:nonNegativeInteger ;
+    nif:endIndex "156"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q113726934> .
+
+<http://example.org/154_cas#char=2379,2383> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "data"@en ;
+    nif:beginIndex "2379"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2383"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q42848> .
+
+<http://example.org/154_cas#char=2614,2628> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Earth Sciences"@en ;
+    nif:beginIndex "2614"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2628"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q8008> .
+
+<http://example.org/154_cas#char=549,569> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "geodetic instruments"@en ;
+    nif:beginIndex "549"^^xsd:nonNegativeInteger ;
+    nif:endIndex "569"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q113726934> .
+
+<http://example.org/154_cas#char=609,619> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "satellites"@en ;
+    nif:beginIndex "609"^^xsd:nonNegativeInteger ;
+    nif:endIndex "619"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1297322> .
+
+<http://example.org/154_cas#char=631,643> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "seismometers"@en ;
+    nif:beginIndex "631"^^xsd:nonNegativeInteger ;
+    nif:endIndex "643"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/154_cas#char=0,4235> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q160567> .
+
+<http://example.org/155_cas#char=122,144> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Advanced Manufacturing"@en ;
+    nif:beginIndex "122"^^xsd:nonNegativeInteger ;
+    nif:endIndex "144"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4686346> .
+
+<http://example.org/155_cas#char=1591,1600> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "metrology"@en ;
+    nif:beginIndex "1591"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1600"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q394> .
+
+<http://example.org/155_cas#char=2917,2939> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Advanced Manufacturing"@en ;
+    nif:beginIndex "2917"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2939"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4686346> .
+
+<http://example.org/155_cas#char=3068,3079> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "3D scanning"@en ;
+    nif:beginIndex "3068"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3079"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q94701573> .
+
+<http://example.org/155_cas#char=317,357> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "RenAM 500M additive manufacturing system"@en ;
+    nif:beginIndex "317"^^xsd:nonNegativeInteger ;
+    nif:endIndex "357"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q119269560> .
+
+<http://example.org/155_cas#char=614,628> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machine tools,"@en ;
+    nif:beginIndex "614"^^xsd:nonNegativeInteger ;
+    nif:endIndex "628"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q123123688> .
+
+<http://example.org/155_cas#char=665,695> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "additive manufacturing systems"@en ;
+    nif:beginIndex "665"^^xsd:nonNegativeInteger ;
+    nif:endIndex "695"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q119269560> .
+
+<http://example.org/155_cas#char=890,899> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Aerospace"@en ;
+    nif:beginIndex "890"^^xsd:nonNegativeInteger ;
+    nif:endIndex "899"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2876213> .
+
+<http://example.org/155_cas#char=901,908> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Defence"@en ;
+    nif:beginIndex "901"^^xsd:nonNegativeInteger ;
+    nif:endIndex "908"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/155_cas#char=0,5093> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1985622> .
+
+<http://example.org/156_cas#char=1024,1042> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastics extrusion"@en ;
+    nif:beginIndex "1024"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1042"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/156_cas#char=0,1291> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2738101> .
+
+<http://example.org/156_cas#char=52,60> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastics"@en ;
+    nif:beginIndex "52"^^xsd:nonNegativeInteger ;
+    nif:endIndex "60"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/156_cas#char=0,1291> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/156_cas#char=52,70> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Plastics Extrusion"@en ;
+    nif:beginIndex "52"^^xsd:nonNegativeInteger ;
+    nif:endIndex "70"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/156_cas#char=0,1291> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2738101> .
+
+<http://example.org/156_cas#char=630,638> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastics"@en ;
+    nif:beginIndex "630"^^xsd:nonNegativeInteger ;
+    nif:endIndex "638"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/156_cas#char=0,1291> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11474> .
+
+<http://example.org/156_cas#char=630,648> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "plastics extrusion"@en ;
+    nif:beginIndex "630"^^xsd:nonNegativeInteger ;
+    nif:endIndex "648"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/156_cas#char=0,1291> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2738101> .
+
+<http://example.org/157_cas#char=10,14> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "mold"@en ;
+    nif:beginIndex "10"^^xsd:nonNegativeInteger ;
+    nif:endIndex "14"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1941820> .
+
+<http://example.org/157_cas#char=19,22> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "die"@en ;
+    nif:beginIndex "19"^^xsd:nonNegativeInteger ;
+    nif:endIndex "22"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q2609080> .
+
+<http://example.org/157_cas#char=224,245> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "drill up to 83 inches"@en ;
+    nif:beginIndex "224"^^xsd:nonNegativeInteger ;
+    nif:endIndex "245"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q890886> .
+
+<http://example.org/157_cas#char=258,265> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "tapping"@en ;
+    nif:beginIndex "258"^^xsd:nonNegativeInteger ;
+    nif:endIndex "265"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q115865311> .
+
+<http://example.org/157_cas#char=364,370> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "cutter"@en ;
+    nif:beginIndex "364"^^xsd:nonNegativeInteger ;
+    nif:endIndex "370"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q107196661> .
+
+<http://example.org/157_cas#char=391,407> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "face off a block"@en ;
+    nif:beginIndex "391"^^xsd:nonNegativeInteger ;
+    nif:endIndex "407"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q3064135> .
+
+<http://example.org/157_cas#char=453,460> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "machine"@en ;
+    nif:beginIndex "453"^^xsd:nonNegativeInteger ;
+    nif:endIndex "460"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11019> .
+
+<http://example.org/157_cas#char=486,508> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "large automotive molds"@en ;
+    nif:beginIndex "486"^^xsd:nonNegativeInteger ;
+    nif:endIndex "508"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4300310> .
+
+<http://example.org/157_cas#char=514,520> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "fascia"@en ;
+    nif:beginIndex "514"^^xsd:nonNegativeInteger ;
+    nif:endIndex "520"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q17125992> .
+
+<http://example.org/157_cas#char=52,60> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "aluminum"@en ;
+    nif:beginIndex "52"^^xsd:nonNegativeInteger ;
+    nif:endIndex "60"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q663> .
+
+<http://example.org/157_cas#char=524,531> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "bumpers"@en ;
+    nif:beginIndex "524"^^xsd:nonNegativeInteger ;
+    nif:endIndex "531"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q13697> .
+
+<http://example.org/157_cas#char=65,70> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "steel"@en ;
+    nif:beginIndex "65"^^xsd:nonNegativeInteger ;
+    nif:endIndex "70"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11427> .
+
+<http://example.org/157_cas#char=82,88> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "milled"@en ;
+    nif:beginIndex "82"^^xsd:nonNegativeInteger ;
+    nif:endIndex "88"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/157_cas#char=0,909> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q656950> .
+
+<http://example.org/158_cas#char=0,2879> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2879"^^xsd:nonNegativeInteger ;
+    nif:isString "\"Conference: 3rd Micro/Nanoscale Heat & Mass Transfer International Conference, Atlanta, GA, on March 3-6, 2012 - The ASME 3rd Micro/Nanoscale Heat & Mass Transfer International Conference was held at the Georgia Institute of Technology in Atlanta, Georgia on March 3-6, with over 320 attendees from 20 countries. The conference was co-sponsored by the ASME Heat Transfer Division and the Georgia Institute of Technology. Professor G. P. \"\"Bud\"\" Peterson was the General Chair and Professor Zhuomin Zhang was the Program Chair. This conference series is dedicated to Dr. Chang-Lin Tien (1935-2002), a world renowned scholar, a leader in higher education, and a close friend and colleague. Professor Tien's tremendous intellect and unique vision have continued to inspire researchers to expand the frontiers of micro/nanoscale heat and mass transfer. The first two conferences were held in Tainan (January 2008) and Shanghai (December 2009). There were three plenary addresses and six keynote speeches, over 250 oral presentations, and 40 poster presentations. The conference provided a forum for participants (over 200 professionals and 120 graduate students) to discuss state-of-the-art research and development, and to identify the research needs in this emerging field. Nearly 140 peer-reviewed technical papers are included in the proceedings CD. Selected papers will be published after review/revision in a forthcoming special issue of the Journal of Heat Transfer. Furthermore, an NSF/ONR Workshop on Nano/Microscale Thermal Transport was held on Sunday (March 4) in conjunction with the conference with more than 70 attendees. The workshop helps to identify the achievements to date and the challenges and barriers currently faced by the community in the area of nano/microscale transport centered around three major themes: phonon transport fundamentals, materials challenges in thermal management, and heat transfer in microchannels. Additional information can be found from the ASME MNHMT2012 website: https://www.asmeconferences.org/MNHMT2012/index.cfm Workshop presentations and summaries, as well as pertinent plenary/keynote presentations, can be found from the following website: http://www.me.gatech.edu/NSF_ONR_Workshop Partial support was provided by the National Science Foundation and the Office of Naval Research. The support was used to supplement the registration fee of the key organizers, most plenary and keynote speakers, a few workshop panelists, as well as several post-doctors and a number of graduate students who have provided assistance at the conference. The NSF support also allowed the organizers to lower the registration fee for all students. Additional support was provided by several industrial sponsors including Seagate, Praxair, General Nano Inc., and Teledyne Scientific Company). Last Modified: 10/15/2012 Submitted by: Zhuomin Zhang\""@en .
+
+<http://example.org/159_cas#char=36,41> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "Robot"@en ;
+    nif:beginIndex "36"^^xsd:nonNegativeInteger ;
+    nif:endIndex "41"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/159_cas#char=426,437> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "electronics"@en ;
+    nif:beginIndex "426"^^xsd:nonNegativeInteger ;
+    nif:endIndex "437"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11650> .
+
+<http://example.org/159_cas#char=442,463> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "automotive industries"@en ;
+    nif:beginIndex "442"^^xsd:nonNegativeInteger ;
+    nif:endIndex "463"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q106875662> .
+
+<http://example.org/159_cas#char=481,488> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robot's"@en ;
+    nif:beginIndex "481"^^xsd:nonNegativeInteger ;
+    nif:endIndex "488"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q11012> .
+
+<http://example.org/159_cas#char=562,565> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "TX2"@en ;
+    nif:beginIndex "562"^^xsd:nonNegativeInteger ;
+    nif:endIndex "565"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7859546> .
+
+<http://example.org/159_cas#char=678,686> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "robotics"@en ;
+    nif:beginIndex "678"^^xsd:nonNegativeInteger ;
+    nif:endIndex "686"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q170978> .
+
+<http://example.org/159_cas#char=726,729> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "TX2"@en ;
+    nif:beginIndex "726"^^xsd:nonNegativeInteger ;
+    nif:endIndex "729"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/159_cas#char=0,1661> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q7859546> .
+
+<http://example.org/160_cas#char=1517,1529> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "audio signal"@en ;
+    nif:beginIndex "1517"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1529"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/160_cas#char=0,2260> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q4650799> .
+
+<http://example.org/160_cas#char=1543,1557> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "parking sensor"@en ;
+    nif:beginIndex "1543"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1557"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/160_cas#char=0,2260> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1308486> .
+
+<http://example.org/160_cas#char=17,31> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "parking sensor"@en ;
+    nif:beginIndex "17"^^xsd:nonNegativeInteger ;
+    nif:endIndex "31"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/160_cas#char=0,2260> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q1308486> .
+
+<http://example.org/160_cas#char=2002,2008> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "sensor"@en ;
+    nif:beginIndex "2002"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2008"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/160_cas#char=0,2260> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q167676> .
+
+<http://example.org/160_cas#char=271,292> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "detect nearby objects"@en ;
+    nif:beginIndex "271"^^xsd:nonNegativeInteger ;
+    nif:endIndex "292"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/160_cas#char=0,2260> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q5720030> .
+
+<http://example.org/160_cas#char=369,381> a nif:RFC5147String,
+        nif:String ;
+    nif:anchorOf "mobility aid"@en ;
+    nif:beginIndex "369"^^xsd:nonNegativeInteger ;
+    nif:endIndex "381"^^xsd:nonNegativeInteger ;
+    nif:referenceContext <http://example.org/160_cas#char=0,2260> ;
+    itsrdf:taIdentRef <http://www.wikidata.org/entity/Q6887300> .
+
+<http://example.org/143_cas#char=0,2516> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2516"^^xsd:nonNegativeInteger ;
+    nif:isString "\"Fat-trapping clay may form part of a treatment for obesity - While dieting and exercise certainly help people to lose weight, there are some cases where those approaches just aren't enough on their own. There could now be a new source of hope, however, as scientists have discovered that clay may cause ingested fat to pass right through the body. University of South Australia PhD candidate Tahnee Dening made the initial discovery, when she was investigating the ability of clay particles to improve the oral delivery and absorption of antipsychotic drugs in lab animals. What she found was that although the particles weren't breaking down to release a payload of medication, they were attracting and then soaking up fat droplets. \"\"Not only were the clay materials trapping the fats within their particle structure, but they were also preventing them from being absorbed by the body, ensuring that fat simply passed through the digestive system,\"\" she says. \"\"It's this unique behaviour that immediately signalled we could be onto something significant – potentially a cure for obesity.\"\" Dening and colleagues proceeded to conduct an experiment in which four groups of lab rats were put on a high-fat diet. One group was also fed dried particles of natural montmorillonite clay, the second group received synthetic laponite clay, the third batch were given a leading weight-loss drug known as orlistat, and the fourth group served as a control, receiving nothing other than the high-fat food. After two weeks, the two groups of clay-eating rats and the orlistat-taking rats had all lost weight, with the animals that consumed the clay actually losing a bit more. Additionally, the rats from the clay groups exhibited no side effects. By contrast, because orlistat works by blocking digestive enzymes, it can cause side effects such as stomach aches, bloating, flatulence and diarrhea. \"\"What we're researching now is a synergistic approach with both the clay material and orlistat: the orlistat blocks the enzyme that digests fat molecules, and the clay particles trap these fats so they're excreted out of the body without causing gastrointestinal disturbances,\"\" says Dening. \"\"We're essentially attacking fat digestion and absorption in two different ways and we hope this will lead to greater weight loss with fewer side effects.\"\" It is hoped that human trials may begin soon. A paper on the research was recently published in the journal BMC Biomedical Engineering. Source: University of South Australia\""@en .
+
+<http://example.org/152_cas#char=0,2322> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2322"^^xsd:nonNegativeInteger ;
+    nif:isString "First Graphene & Steel Blue Develop Graphene-enhanced TPU Soles for Safety Boots - TAGS:  Nanotechnologies   Steel Blue and First Graphene Limited (FGR) have manufactured prototype sets of safety boots that incorporate PureGRAPH®10 into the TPU soles and polyurethane foam innersole. Sample boots will be exposed to extensive laboratory tests which are expected to exceed current industry standards for safety footwear. Following laboratory testing, extensive field trials will be conducted, lasting approximately six months. TPU with Improved Mechanical Properties The incorporation of PureGRAPH® into a thermoplastic polyurethane (TPU) is a major advance for FGR. Previously, the successful dispersion of graphene into a TPU masterbatch has been a major graphene industry issue. Extensive research by FGR has resulted in a manufacturing method which has overcome what was previously seen as a real issue. While existing TPUs already possess high abrasion resistance and tensile strength, it is anticipated the incorporation of PureGRAPH® will improve mechanical properties. Further, it will provide additional benefits in thermal heat transfer, chemical resistance and reduced permeability. FGR will be conducting extensive laboratory tests on the PureGRAPH® infused TPU and polyurethane foam inner sole in Australia and Manchester. High Strength Yet Flexible Safety Boot Parts The Metatarsal Guard is specially designed to protect the metatarsal area of the foot. Met-Guard work boots are a popular choice for mining workers, factory hands and drillers, who often need the extra protection. The incorporation of PureGRAPH® into the Met-Guard will further strengthen the product, whilst maintaining flexibility. Garry Johnson, Chief Executive Officer of Steel Blue said \"Steel Blue is committed to developing innovative solutions for our customers. We're excited by these recent developments with FGR and look forward to delivering these solutions to our market.'' \"The development work with Steel Blue provides yet another example of FGR working on real industrial applications\" said Craig McGuckin, Managing Director First Graphene Ltd. \"Like FGR, Steel Blue is an Australian company and the world leader in its field of safety boots systems. These developments continue to enhance that reputation.\" Source: Steel Blue"@en .
+
+<http://example.org/156_cas#char=0,1291> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1291"^^xsd:nonNegativeInteger ;
+    nif:isString "Reifenhäuser Opens New Sales and Service Office for Plastics Extrusion Solutions in Italy - TROISDORF -- Italian customers of Reifenhäuser and prospects for blown film lines, cast film lines, sheet lines and extrusion coating lines are offered now direct service on site. In April 2015, Reifenhäuser opened a new sales and service office in Sumirago, Italy. With this step, Reifenhäuser enhances the commercial and technical onsite customer support and meets the increasing investment needs in Italy. Managing director of the new office is Daniele Cerizzi, native Italian and expert of the market. After various activities in the plastics extrusion industry, he had been working in the sales department of Reifenhäuser Cast Sheet Coating in the past few years. The office in Italy is the ninth regional sales and service office after our worldwide branches in Chile, China, India, Manila, Russia, Singapore, USA and Vietnam. About Reifenhäuser For over 65 years, the name Reifenhäuser has stood for innovative technology in plastics extrusion, for expertise, continuity, progress, and reliability. As a family-owned company that unites high tech and tradition, it is building on values to successfully develop the future of plastics extrusion together with its partners. Source: Reifenhäuser"@en .
+
+<http://example.org/151_cas#char=0,7811> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "7811"^^xsd:nonNegativeInteger ;
+    nif:isString "Green paper producer gets even greener through data-driven initiative powered by Kepware - by Kepware Technologies Having recently celebrated its fiftieth anniversary, Cascades was involved with recycling well before recycling was in style. Cascades Tissue Group, a division of Cascades, employs over 2,200 people within 17 manufacturing and converting facilities throughout the United States and Canada. Cascades owns and operates 17 paper machines, nearly 90 converting lines and eight integrated de-inking units. Its products (which include paper hand towels, bathroom tissue, facial tissue, paper napkins, perforated roll towels, wipers, and dispensers) are made entirely from recycled materials. With a substantial focus on the environment and sustainable practices, Cascades constantly updates its Sustainable Development Plan to ensure progress towards relevant and measurable objectives. It is the only North American paper manufacturer with a team of experts dedicated exclusively to energy efficiencies. \"At Cascades, we are devoted to two driving principals. We want to make the best paper products possible for our customers, and we want to do so in the most environmentally conscious manner possible,\" said Benoit Lapensée, Engineer and MES Coordinator. \"Cascades does not harvest any new trees. Our 100 percent recycled towel and tissue products are made primarily of post-consumer material, which allows us to divert valuable fiber from landfills and preserve the environment.\" The Challenge Cascades' environmental efforts traditionally focused on the sourcing and disposal of raw materials; however, in recent years, the company (like much of the manufacturing industry) has increased its emphasis on data collection and analysis for improved efficiency and clean operation. Cascades has found that operating at peak efficiency significantly reduces its environmental impact. As the technological cornerstone of its data-driven initiative, the company instituted a cutting edge Manufacturing Execution System (MES) in 2007. Cascades' MES ensures delivery of the right information to the right place at the right time. This level of data access helps Cascades' manufacturing decision makers understand how to optimize conditions on the plant floor to improve production output and operational efficiency. Ultimately, Cascades' MES allows the already green company to operate in an even more responsible manner. With \"reuse\" and \"repurpose\" at the core of its mantra, the company compiled a sizeable and unique production plant architecture, featuring many legacy machines repurposed and refurbished to meet modern needs. This architecture works quite well for the company in general, but requires a streamlined communications solution that supports nearly any protocol and bridges servers between old and new machines within the confines of the MES. Cascades needed to ensure that its MES could communicate with and gather data from each and every piece of machinery—regardless of make, model or age. \"In recent years, we have paid particular attention to technical solutions that can help us operate our infrastructure in a cleaner and more energy-efficient manner, so we needed a reasonably simple way to communicate and compile our operational data across our production lines,\" said Lapensée. The Approach After experimenting with a number of well-known, disparate communication solutions, Cascades identified a communications platform and bridging tool that promised to significantly streamline communications and link together the company's multi-generation machine infrastructure. Using Kepware's KEPServerEX, Cascades now supports communications across all of its 17 plants, 17 paper machines, and nearly 90 converting lines with just one piece of software. Engineered to support the OPC standard and over 150 different protocols, KEPServerEX allows Cascades to communicate with virtually any machine on its plant floor and access data without restrictions. By implementing KEPServerEX, Cascades has eliminated numerous disparate communication devices and is now polling over 11,000 tags from nearly 500 PLCs using a single server. Cascades also adopted Kepware's LinkMaster solution to enable communications between modern and legacy equipment. The easy-to-use application acts as a universal bridge for OPC systems. LinkMaster allows Cascades to easily link data between multiple OPC data servers, providing a simple means of integrating systems from multiple vendors—including legacy equipment—into a single operational solution. \"Kepware allowed us to easily and effectively facilitate the communications that drive our MES initiative,\" said Lapensée. \"After expending time and resources trying to cobble together different communications solutions, finding one piece of highly intuitive software that could get all of our machines talking was just what the doctor ordered.\" The Results Since adopting KEPServerEX as the primary communications platform supporting its MES and data-driven initiative, Cascades has achieved significant improvements throughout its manufacturing facilities. The company is now able to measure indicators (such as temperature, pressure, and RPM) in mere seconds; a process that once required several minutes. Implementing KEPServerEX not only improved Cascades' ability to react to machine data, but also increased the company's operational efficiency by 5 percent. Precise, constant measurements help workers on the plant floor identify and mitigate potential machine failures, significantly reducing downtime. Cascades leverages Kepware's award-winning customer support for troubleshooting and project optimization. The company also works with Kepware to add new licenses and support for additional PLCs (such as GE and Siemens) as their connectivity and data access needs grow and evolve. Having this strong working relationship allows Kepware to understand Cascades future enhancement and product needs as they continue to expand their footprint in each facility. Cascades has streamlined operations by leveraging Kepware's LinkMaster solution to quickly and easily bridge legacy OPC servers with newer OPC-enabled applications. The Windows- based application ensures total control of Cascades' data flow and application access with an extremely intuitive click and drag user interface. LinkMaster empowered the environmentally- dedicated organization to meet its sustainability goals by simplifying data communications even further and ensuring that the company is always armed with the information it needs to operate at peak efficiency. When its manufacturing facilities are operating more efficiently, Cascades is operating more responsibly. According to Lapensée, \"Kepware is truly at the heart of a wildly successful MES program, helping us in our ongoing mission to develop great paper products in a responsible way.\" Organization Impact & Benefits Improved operational efficiency by over 5 percent Advanced environmentally responsible operations Significantly reduced downtime Connected legacy equipment with modern OPC-enabled applications Simplified addition of drivers to support new or evolving protocols About Kepware Technologies Kepware Technologies is a private software development company headquartered in Portland, Maine. It provides a portfolio of software solutions to help businesses connect diverse automation devices and software applications. From plant floor to wellsite to windfarm, Kepware serves a wide range of customers in a variety of international vertical markets including manufacturing, oil & gas, building automation, power distribution, and more. Established in 1995 and now distributed in more than 100 countries, Kepware's software solutions help thousands of businesses improve operations and decision making."@en .
+
+<http://example.org/160_cas#char=0,2260> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2260"^^xsd:nonNegativeInteger ;
+    nif:isString "Smart cane packs parking sensor tech and beeps when collisions are imminent - We've seen a few different attempts to smarten up the walking cane over the years, including versions equipped with facial recognition to identify friends and others with laser rangefinders to detect nearby objects. The mySmartCane system is the latest modern-day take on this centuries-old mobility aid, consisting of a ball that can be retrofitted to existing canes to equip them with parking sensor-like technology and give users a better sense of their surroundings. The mySmartCane was dreamt up by Vasileios Tsormpatzoudis, a PhD student at the University of Manchester after seeing his mother struggle with retinis pigmentosa, an inherited degenerative eye disease that breaks down the cells in the retina and causes severe vision impairment. The inventor also spoke with a number of white cane users, who left him with the impression that an emphasis on simplicity and affordability would be the best approach. WERBUNGinRead invented by TeadsWERBUNGinRead invented by Teads So he 3D-printed a ball that he says can be retrofitted to any white cane and packs ultrasonic sensors to wirelessly measure the distance to nearby objects. This is actually the same sensing technology used in the UltraCane that we covered more than 10 years ago, though the way it guides the user through the environment is a little bit different. Rather than converting information into vibrations that can be felt in the handle, it translates it into an audio signal. Just like a parking sensor will beep more frequently the closer your bumper is to the car or object behind you, the system alerts users to nearby obstacles through the same approach. The sounds can be relayed via regular or bone-conducting headphones. Tsormpatzoudis developed the experimental system as a research project, and it is very much in its early prototype phase, though he does have a few ideas about how to improve on the design. These include adding another sensor to detect overhead obstacles like sign-posts and doorways and possibly bringing vibrations into the mix as a way of guiding the user. You can hear him speak about the project in the video below. Source: University of Manchester View gallery - 4 images"@en .
+
+<http://example.org/154_cas#char=0,4235> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4235"^^xsd:nonNegativeInteger ;
+    nif:isString "\"Collaborative Research: Understanding the Connections Between Strain Transients and Earthquake Swarms - The Plate Boundary Observatory geodetic instruments were installed to detect time periods when the deformation of the Earth's crust speeds up or slows down compared to the normal speed of plate motions. Usually these episodes of speeding up are \"\"transient\"\" which means they last from a few weeks to a few months, and even though they are faster than the plate rate, they are still too slow to make earthquake waves. That means we have to use geodetic instruments that talk to Global Positioning System satellites instead of seismometers to measure these events. Some studies before ours documented that strain transients can trigger swarms of small to moderate earthquakes, which can be measured with seismometers. Knowing the relationship between aseismic strain transients and small ordinary earthquakes might help us understand more about how subduction zones work, which is important for earthquake hazard analysis because the greatest, most devastating earthquakes happen at subduction zones. This study combined geodetic inversions and earthquake triggering studies to improve the mechanical models that connect strain transients with increases in earthquake rate. We used a GPS network filtering approach to detect previously unknown strain transients in the Salton Trough in southern California, the Cascadia subduction zone in Oregon and Washington, and the Alaskan subduction zone. Then we analyzed seismicity associated with those transients to estimate the temporal history of seismic and aseismic patterns associated with individual transients. The fundamentally unique breakthroughs made by this project involved not only new science but also new kinds of scientists. At the beginning of the project we discovered a strain transient in the Alaskan subduction zone (discovery #1). We tried various statistical approaches that have all been successful in the past to try to analyze the microseismicity associate with this subduction zone. However none of the statistical approaches we used worked even close to as well as looking through the data by hand. The reason for this was that earthquakes in the Alaskan subduction zone are extremely depleted in aftershocks at the depth ranges where aseismic transients also happen (discovery #2). The sheer volume of data made looking for clusters by hand impractical, so we borrowed an idea from the astronomy community and decided to crowdsource the cluster-hunting process. We recruited high school teachers from Penn State's Master of Education in Earth Sciences program, which is directed by PI Richardson, to participate in this research effort. We trained them to analyze catalogs of earthquake swarms that are temporally and spatially correlated to geodetically-detected strain transients. When teachers become involved in scientific research, they are better able to model the process of science for their own students; the excitement of playing a role in scientific discovery translates directly to enthusiasm in the classroom (discovery #3). Eight teachers over four years participated in this research effort as they earned their master's degrees. They worked in teams of two to analyze swarms related to strain transients, to analyze the aftershock productivity of subduction zones worldwide, as well as to develop lesson plans based on the results and actually teach it to secondary students in their own schools. This project yielded six presentations at the American Geophysical Union Fall meeting in 2011, 2012, and 2013, three of which were first-authored by high school teachers! That is quite exciting and unusual. We have published one paper in Geophysical Research Letters and have two more in prep (which will be first-authored by high school teachers as well!). In addition, the teachers created learning objects from this work that will be made publicly available as part of Penn State's Open Educational Resources initiative. Therefore, the results of this project created both new knowledge and new teaching and learning objects for immediate use by secondary school teachers worldwide. Last Modified: 06/03/2014 Submitted by: Eliza B Richardson\""@en .
+
+<http://example.org/159_cas#char=0,1661> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1661"^^xsd:nonNegativeInteger ;
+    nif:isString "VIDEO: Versatility in Collaborative Robot Programming for Wider Industry Use - Robotic automation has taken manufacturing by storm, meeting applications in industries ranging from medical to automotive and continuing to fill more undesirable jobs as new lines of robotics are released. In the video above, we take a look at the new TX2 collaborative robot from Stäubli Corporation and how it's meeting applications across the electronics and automotive industries. The key to this robot's versatility is in the flexibility of its collaborative programming. \"The TX2 series features a new generation of safety performance and collaborative capabilities,\" said Sebastian Schmitt, robotics division manager at Stäubli. \"With the TX2 series, we're capable of addressing all the different stages of MRC (Man-Robot Collaboration) from stage one through five.\" Schmitt describes the five stages as essentially three families. \"Stage one has the robot in a cage with no contact possible. Stage two and three are contact possible, but only at stationary positions – so the robot is no longer moving when someone approaches and touches a robot. Stage four and five, the last family, is where robots continuously move even though a human being is next to them. The TX2 can be applied in all of these stages.\" This versatility in level collaboration allows the TX2 greater flexibility for which applications it can be used. If a job requires greater speed and a caged cell, the TX2 is just as viable an option as it would be in a fully collaborative application requiring a slower pace. For more information, watch the video above and visit the Stäubli Corporation website."@en .
+
+<http://example.org/145_cas#char=0,1665> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1665"^^xsd:nonNegativeInteger ;
+    nif:isString "Collaborative Research: Atomistic Mechanisms of Stabilizing Oxide Nanoparticles in Oxide-dispersion Strengthened Structural Materials - Ceramic materials provide strength and durability in a number of applications. Small particles of oxide materials are added to steel to retard crack growth and strengthen the steel, producing so called ODS (oxide dispersion strengthened) steel. Related oxides are also found in nuclear reactors and radioactive waste. This project focuses on determining the stability of such oxides as a function of their composition and their state of structural order-disorder, with emphasis on rare earth titanates. Appropriate materials were synthesized at high temperature and characterized in terms of crystal structure and composition. Their energetics of formation and transformation were determined by unique high temperature calorimetric techniques. Systematic trends in stability and the extent and ease of disordering have been documented. Specifically, both the thermodynamic stability and the resistance to disordering depend on the size of the rare earth atom in the structure. The results are useful to help tailor better materials for specific applications. The new data and fundamental atomic-level understanding of energetics, bonding, and properties form the intellectual merit of this project. The potential applications to durability and strength of materials exposed to extreme conditions in technological settings and the training of students in specialized modern solid-state experimental techniques within an interdisciplinary environment are broader impacts. Last Modified: 10/03/2012 Submitted by: Alexandra Navrotsky"@en .
+
+<http://example.org/155_cas#char=0,5093> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "5093"^^xsd:nonNegativeInteger ;
+    nif:isString "AMS 2017: Register now for this year's key manufacturing showcase - Running from 6th – 8th June at the NEC Birmingham the Advanced Manufacturing Show 2017 (AMS) is a must-attend event for anyone with an interest in finding out about and specifying the latest manufacturing technology. Renishaw will be showcasing its RenAM 500M additive manufacturing system, the only additive machine to be designed and built in the UKThe event, which runs every two years offers visitors the opportunity to meet suppliers, view live demonstrations, and benchmark and source the latest technologies. Product areas on show include machine tools, tooling and work-holding equipment, additive manufacturing systems and specialist metrology solutions. For exhibitors, the show offers an opportunity to meet with senior buyers fro across industry and rub shoulders with key decision makers from the Automotive, Aerospace, Defence, F1/Motorsport, Oil & Gas, Medical sectors. The 2017 event looks set to build on the success of its last outing with many of the big names from 2015 eagerly awaiting this year's iteration. One company hoping to repeat the successes it enjoyed in 2015 is Renishaw. Reflecting on the 2015 show UK national sales manager Jonathan Archer said, \"We found the show to be well attended and by people working in our key target industries. We met with existing and potential new customers at the show and this resulted in a good amount of quality leads being taken by our sales team over the course of the show. \" At this year's event as well as showcasing its well-established expertise in metrology, and promoting the benefits of its unique 5-axi probing technology, Archer said that Renishaw is particularly looking forward to demonstrating its expanded additive manufacturing product line and the exciting new system developments in that area. Key technologies on display will b the RenAM 500M additive manufacturing system; the REVO-2 five-axis CMM measuring head; the newly launched XM-60 multi-axis calibrator and the Equator gauging system. Commenting on his hopes for this year's event Archer added, \"We hope to further develop our relationships with existing customers and show new visitors the possibilities that Renishaw products can offer in terms of process control and productivity.\" Archer added that Renishaw's emphasis on helping customers get te best form existing equipment will become increasingly relevant in the economically uncertain times ahead. \"Political and economic changes in the UK and indeed the world have brought a certain degree of uncertainty to manufacturing companies across most industries,\" he said, \"and this has led to a continuing trend of many manufacturers looking to improve the products and processes that they already have in place. Our emphasis on getting the best from existing equipment and improving manufacturing processes aligns with our customers concerns.\" The Advanced Manufacturing Show represents the perfect event to meet the kind of visitors we aim our products at Another key exhibitor returning to AMS is 3D scanning specialist Measurement Solutions which will be showcasing its expertise in automated inspection solutions using industrial robots. Managing Director Iain Caville is looking forward to building on a very successful 2016 at the show. \"2016 was our return to AMS after trying various other shows.\" he said. \"We were pleasantly surprised at the quality and level of interest in our products and services, such that we had no hesitation to book a larger booth for 2017. The show works for us as it is not too long yet provides ample opportunity for visitors to see what they need to see. These sentiments were echoed by Chris Davies, business development manager at Gloucester metrology specialist Aberlink. \"The Advanced Manufacturing Show represents the perfect event to meet the kind of visitors we aim our products at,\" he told The Engineer. \"Each year, the number and quality of enquiries we receive has been excellent.\" As in 2015 – AMS will be running alongside Subcon – the UK's only dedicated event for engineering contract and subcontract manufacturing, and The Engineer Design and Innovation Show. Together the three shows provide a one-stop destination for the complete manufacturing cycle from concept to component, bringing together design engineering, product development, in-house production and outsourced supply chains. Commenting on the value of the three events running alongside each other Tom Mongan, General Manager at Subcon Laser, said: \"When the three shows first ran together two years ago, it ranked among the best events I have ever exhibited at. We were inundated with good-quality visitors and exceptional leads. It works very well having Subcon alongside the Advanced Manufacturing Show and The Engineer Design & Innovation Show because it brings together subcontract buyers, production engineers and designers under one roof. I have every expectation that this year's event will be at least as good, if not better.\" Click here to find out more about visiting and exhibiting at AMS 2017"@en .
+
+<http://example.org/139_cas#char=0,1988> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1988"^^xsd:nonNegativeInteger ;
+    nif:isString "Repsol's Plastic Recycling Process to Boost Circular Economy Model - TAGS:   Green and Bioplastics   Repsol has devoted many resources to lead the search for new solutions to boost the Circular Economy and promote that a large amount of plastic waste, which currently goes to landfill, be transformed into new raw material for its petrochemical processes. Chemical Recycling of Plastic Waste The Zero project is an initiative that Repsol has implemented to take advantage of the synthetic oils, obtained from the chemical recycling of plastic waste streams at the end of their life cycle, that cannot be otherwise recycled in a traditional mechanical way. Thus, Repsol has been working for a while, together with various companies with these new technologies and products, accomplishing in 2015 to experimentally feed these products on an industrial scale in its Puertollano complex. Repsol's Refining and Chemical Businesses Through this technology, plastic polymers are transformed into hydrocarbons or pyrolysis oils that can be reintroduced in the petrochemical industry. This presents a transversal opportunity to support the circular economy, allowing Repsol's Refining and Chemical businesses to deliver potential benefits to society. On the one hand, with an alternative raw material for the Refining business, and on the other hand, a mean for Repsol's Chemical business to offer its clients polymers from a \"plastic to plastic\" source with equivalent properties to those of virgin polymers. A potential solution to the problem of plastic waste to landfill, based on the circular economy, to close their life cycle. Plastics' Chemical Recycling Alternatives The plastics' chemical recycling alternatives, which are beginning their industrial scale-up, complement existing ones, such as, the mechanical recycling, where Repsol also has focused their efforts through its Reciclex product range, which incorporates a percentage of plastic recycled in its formulation. Source: Repsol"@en .
+
+<http://example.org/142_cas#char=0,2623> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2623"^^xsd:nonNegativeInteger ;
+    nif:isString "UK engineers usher in farm 4.0 with agribot trial - Engineers at the Manufacturing Technology Centre (MTC) in Coventry are collaborating with a Hampshire robotics firm on the development of robots and artificial intelligence solutions for the farming and food production sectors. The MTC researchers are working with the firm, the Small Robot Company, on the development of a new generation of digitally-controlled robots that are able to plant seeds, apply fertiliser and herbicides, as well as weed crops with the kind of precision more commonly associated with sectors like automotive or aerospace. The team claims that the farmbots could improve the way food is produced, minimise chemical use, and help increase yield and efficiency. Robots and AI combine for precision future farming platform Prototypes of the robots have been produced and are carrying out field trials on 20 farms across the UK including the Waitrose Leckford Estate Farm and the National Trust's Wimpole Estate. Funding for the project has come from Innovate UK and the MTC, boosted by £1.2 million in crowd-funding. The Small Robot Company, based in Hampshire, was established as an agri-tech start-up by digital entrepreneur Ben Scott-Robinson and fourth generation farmer Sam Watson Jones. They were inspired by work at the National Centre for Precision Farming at Harper Adams agricultural college which suggested that much of the work done by tractors could be done with a series of highly accurate, smart, lightweight robots. Jeremy Hadall, chief engineer for intelligent automation at the MTC, said the technology had the potential to make significant improvements in farm productivity and profitability. \"We are delighted to be working with the Small Robot Company, developing the company's precision drilling and planting robot, which has the potential to improve yields, and therefore profits, while substantially reducing the use of chemicals. The technology harnesses manufacturing advances used in traditional manufacturing industries and allows exceptional accuracy, while creating a map showing the location of each seed,\" he said. \"With growing populations and increasing challenges in farming, using ideas and technologies from other sectors will bring about real innovation and transform the way we feed ourselves in the future,\" Hadall added. Ben Scott-Robinson, co-founder of the Small Robot Company said, \"The MTC's expertise and development help is invaluable to get our robots to market. We have been able to get them working on real farms at scale, which puts us in the vanguard for farming in the future.\" MORE ON ROBOTICS"@en .
+
+<http://example.org/144_cas#char=0,2083> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2083"^^xsd:nonNegativeInteger ;
+    nif:isString "Shipboard Scientific Support Equipment for the R/V Savannah - The award funded several items of shipboard scientific support equipment for the Research Vessel, Savannah, which is operated by the Skidaway Institute of Oceanography. This 92-foot vessel supports a range of research and education projects, primarily in the estuarine, coastal and shelf waters off the Southeast U.S. The R/V Savannah is part of the NSF University National Oceanographic Laboratories (UNOLS) research fleet. In 2010-2012, many separate projects (most funded by NSF programs) utilized the vessel for a range of 140-160 days in the field per year. The funded equipment consisted of: 1) Rolls-Royce ODIM Brooke Ocean 19' metered sheave; 2) upgrades and improvements to a companion sheave; 3) a Furuno FCV-1150 echo sounder that was installed in the ship's wheelhouse; and 4) a Furuno FCV-585 echo sounder that was installed in the ship's science dry lab. Following delivery, the systems were configured and tested by the ship's Marine Technician, and became integral components in the R/V Savannah's data and sample collection systems. These upgrades have been employed on all cruises since installation. The vessel's data system acquires and displays data collected from the ship's echo sounders, as well as from its navigational system, meteorological sensors, acoustic Doppler current profiler, and an underway flow-through system (measuring surface water properties). Real-time displays are available in the ship's dry and wet labs and on the bridge. In addition to enhanced bottom habitat and bathymetric feature discrimination the new units provide a significant increase in depth range. The new and upgraded sheaves are components of the sheave monitoring system which provides wire payout and tension information in real-time to the operator of the ship's CTD winch that is used for profiling and water sampling operations. All of these components improve the utilization of the R/V Savannah for a range of research and education applications. Last Modified: 10/18/2012 Submitted by: James G Sanders"@en .
+
+<http://example.org/150_cas#char=0,1556> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "1556"^^xsd:nonNegativeInteger ;
+    nif:isString "TCT Show – The Event for Design-to-Manufacturing Innovation - The TCT Show, a world leading event focused on additive manufacturing, 3D printing, design and engineering technology, is part of the TCT Group whose mission is to accelerate the adoption of technologies and innovations that play a part in the design-to-manufacturing process chain. The group's events and media products now deliver business-critical insights, intelligence and inspiration across Europe, North America and Asia on 3D printing, additive manufacturing, CAD/CAM/CAE, metrology, inspection and materials as well as highlighting the latest developments in conventional manufacturing processes such as moulding, casting and CNC machining. For over 20 years, TCT Show has set the agenda for product development, engineering and manufacturing professionals, bringing together experts, world-class speakers, three hundred exhibiting companies and over 10,000 attendees from 60 countries. Attendees from across the complete spectrum of industry attend to explore the current state of the art and get an insight into the future. They attend with a view to acquiring products and solutions to achieve the goal of world-class design and manufacturing functions within their organisations. TCT Show is the place for insight, intelligence and inspiration and importantly where companies come to do business. TCT Show 2019 will take place in Halls 3 and 3A of the National Exhibition Centre (NEC), Birmingham, UK, from 24-26 September 2019. For further information visit: http://bit.ly/-tct-19"@en .
+
+<http://example.org/146_cas#char=0,3015> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3015"^^xsd:nonNegativeInteger ;
+    nif:isString "US engineers develop propulsion system for small satellites - Cubesats – tiny satellites that offer scientists relatively low cost access to space – are increasingly widely used for a host of applications. Now, thanks to a new rocket motor concept developed by a team from Los Alamos Laboratory in the US they could be about to become even more useful. The primary roadblock to CubeSat propulsion has always been safety. Typical spacecraft propulsion systems utilise fuels that are intrinsically hazardous, like hydrazine, or compressed gasses. Since CubeSats are usually deployed via \"rideshare\" or \"piggyback\" on a larger satellite deployment or other large space mission, even a small margin of risk is unacceptable. However, the Los Alamos team has tested a six-motor CubeSat-compatible propulsion array that it claims could address these concerns. \"I think we're very close to being able to put this propulsion system onto a satellite for a simple demonstration propulsion capability in space,\" said Bryce Tappan, lead researcher on the CubeSat Propulsion Concept team The concept under development is a solid-based chemical fuel technology, but differs from classical solid propellants because it is completely non-detonable, making it much less hazardous. The technology is called a \"segregated fuel oxidiser\" system where the solid fuel and solid oxidiser are kept completely separate inside the rocket assembly. Mixed fuel and oxidiser systems are much more common and significantly more unstable. Artists concept of a CubeSat on-board propulsion system. (Photo credit: Inside Out Visuals)\"Because the fuel and oxidiser are separate,\" said Tappan, \"it enables you to use higher-energy ingredients than you could use in a classic propellant architecture. This chemical propulsion mechanism produces very fast, high-velocity thrust, something not available with most electrical or compressed gas concepts.\" The rocket motor works in many of the same ways as a conventional chemical rocket motor. A pyrotechnic igniter provides the heat to initiate burn in a high-nitrogen, high-hydrogen fuel section, releasing gasses very rich in hydrogen. Those gasses flow into the oxidiser section and the chemical reaction there creates tremendous heat and expanding gasses that flow through a nozzle creating the bulk of the motor's thrust. \"Propulsion is desirable on CubeSats because it's an enabling technology that greatly expands the mission-space of these small satellites,\" said Tappan. \"It would allow CubeSats to enter higher orbits or achieve multiple orbital planes in a single mission, and extend mission lifetimes. Another desirable application would be a 'de-orbit' capability.\" NASA currently tracks approximately half a million individual pieces of \"space junk\" in various orbits around Earth. Eventually small satellites will have to demonstrate a compelling mission before they can be launched, or have a de-orbit capability so they can burn up in the atmosphere and not add to the space junk problem."@en .
+
+<http://example.org/157_cas#char=0,909> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "909"^^xsd:nonNegativeInteger ;
+    nif:isString "null - In mold and die, very large, heavy blocks of aluminum and steel need to be milled. With so much bulk, it makes sense to do as much as possible in one operation. The solution is a deep hole drilling machine, which can drill up to 83 inches, as well as tapping, chamfering, spot facing, counterboring, slot cutting and compound thread milling. With the right cutter, this mill can even face off a block or rough out sections. In mold and die, this machine is used to save time for large automotive molds like fascia or bumpers, as well as molds for packaging, which require smaller cavities in higher quantities. Watch the video below to see Brad Kleinow, service manager at Tarus, discuss the capabilities and advantages of this impressive piece of engineering. For more on deep hole drilling machines, check out the UNISIG machine in this article. For more information about Tarus, visit their website."@en .
+
+<http://example.org/149_cas#char=0,9951> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "9951"^^xsd:nonNegativeInteger ;
+    nif:isString "One-shot imitation from watching videos - By Tianhe Yu and Chelsea Finn Learning a new skill by observing another individual, the ability to imitate, is a key part of intelligence in human and animals. Can we enable a robot to do the same, learning to manipulate a new object by simply watching a human manipulating the object just as in the video below? The robot learns to place the peach into the red bowl after watching the human do so. Such a capability would make it dramatically easier for us to communicate new goals to robots – we could simply show robots what we want them to do, rather than teleoperating the robot or engineering a reward function (an approach that is difficult as it requires a full-fledged perception system). Many prior works have investigated how well a robot can learn from an expert of its own kind (i.e. through teleoperation or kinesthetic teaching), which is usually called imitation learning. However, imitation learning of vision-based skills usually requires a huge number of demonstrations of an expert performing a skill. For example, a task like reaching toward a single fixed object using raw pixel input requires 200 demonstrations to achieve good performance according to this prior work. Hence a robot will struggle if there's only one demonstration presented. Moreover, the problem becomes even more challenging when the robot needs to imitate a human showing a certain manipulation skill. First, the robot arm looks significantly different from the human arm. Second, engineering the right correspondence between human demonstrations and robot demonstrations is unfortunately extremely difficult. It's not enough simple to track and remap the motion: the task depends much more critically on how this motion affects objects in the world, and we need a correspondence that is centrally based on the interaction. To enable the robot to imitate skills from one video of a human, we can allow it to incorporate prior experience, rather than learn each skill completely from scratch. By incorporating prior experience, the robot should also be able to quickly learn to manipulate new objects while being invariant to shifts in domain, such as a person providing a demonstration, a varying background scene, or different viewpoint. We aim to achieve both of these abilities, few-shot imitation and domain invariance, by learning to learn from demonstration data. The technique, also called meta-learning and discussed in this previous blog post, is the key to how we equip robots with the ability to imitate by observing a human. One-Shot Imitation Learning So how can we use meta-learning to make a robot quickly adapt to many different objects? Our approach is to combine meta-learning with imitation learning to enable one-shot imitation learning. The core idea is that provided a single demonstration of a particular task, i.e. maneuvering a certain object, the robot can quickly identify what the task is and successfully solve it under different circumstances. A prior work on one-shot imitation learning achieves impressive results on simulated tasks such as block-stacking by learning to learn across tens of thousands of demonstrations. If we want a physical robot to able to emulate humans and manipulate a variety of novel objects, we need to develop a new system that can learn to learn from demonstrations in the form of videos using a dataset that can be practically collected in the real world. First, we'll discuss our approach for visual imitation of a single demonstration collected via teleoperation. Then, we'll show how it can be extended for learning from videos of humans. One-Shot Visual Imitation Learning In order to make robots able to learn from watching videos, we combine imitation learning with an efficient meta-learning algorithm, model-agnostic meta-learning (MAML). This previous blog post gives a nice overview of the MAML algorithm. In this approach, we use a standard convolutional neural network with parameters $\\theta$ as our policy representation, mapping from an image $o_t$ from the robot's camera and the robot configuration $x_t$ (e.g. joint angles and joint velocities) to robot actions $a_t$ (e.g. the linear and angular velocity of the gripper) at time step $t$. There are three main steps in this algorithm. Three steps for our meta-learning algorithm. First, we collected a large dataset containing demonstrations of a teleoperated robot performing many different tasks, which in our case, corresponds to manipulating different objects. During the second step, we use MAML to learn an initial set of policy parameters $\\theta$, such that, after being provided a demonstration for a certain object, we can run gradient descent with respect to the demonstration to find a generalizable policy with parameters $\\theta'$ for that object. When using teleoperated demonstrations, the policy updates can be computed by comparing the policy's predicted action $\\pi_\\theta(o_t)$ to the expert action a^*_t: \\theta' \\leftarrow \\theta - \\alpha \\nabla_\\theta \\sum_t || \\pi_\\theta(o_t) - a^*_t || ^2. Then, we optimize for the initial parameters $\\theta$ by driving the updated policy \\pi_{\\theta'} to match the actions from another demonstration with the same object. After meta-training, we can ask the robot to manipulate completely unseen objects by computing gradient steps using a single demonstration of that task. This step is called meta-testing. As the method does not introduce any additional parameters for meta-learning and optimization, it turns out to be quite data-efficient. Hence it can perform various control tasks such as pushing and placing by just watching a teleoperated robot demonstration: Placing items into novel containers using a single demonstration. Left: demo. Right: learned policy. One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning The above method still relies on demonstrations coming from a teleoperated robot rather than a human. To this end, we designed a domain-adaptive one-shot imitation approach building on the above algorithm. We collected demonstrations of many different tasks performed by both teleoperated robots and humans. Then, we provide the human demonstration for computing the policy update and evaluate the updated policy using a robot demonstration performing the same task. A diagram illustrating this algorithm is below: Overview of domain-adaptive meta-learning. Unfortunately, as a human demonstration is just a video of a human performing the task, which doesn't contain the expert actions a^*_t, we can't calculate the policy update defined above. Instead, we propose to learn a loss function for updating the policy, a loss function that doesn't require action labels. The intuition behind learning a loss function is that we can acquire a function that only uses the available inputs, the unlabeled video, while still producing gradients that are suitable for updating the policy parameters in a way that produces a successful policy. While this might seem like an impossible task, it is important to remember that the meta-training process still supervises the policy with true robot actions after the gradient step. The role of the learned loss therefore may be interpreted as simply directing the parameter update to modify the policy to pick up on the right visual cues in the scene, so that the meta-trained action output will produce the right actions. We represent the learned loss function using temporal convolutions, which can extract temporal information in the video demonstration: We refer to this method as domain-adaptive meta-learning algorithm, as it learns from data (e.g. videos of humans) from a different domain as the domain that the robot's policy operates in. Our method enables a PR2 robot to effectively learn to push many different objects that are unseen during meta-training toward target positions: Learning to push a novel object by watching a human. and pick up many objects and place them onto target containers by watching a human manipulates each object: Learning to pick up a novel object and place it into a previously unseen bowl. We also evaluated the method using human demonstrations collected in a different room with a different camera. The robot still performs these tasks reasonably well: Learning to push a novel object by watching a human in a different environment from a different viewpoint. What's Next? Now that we've taught a robot to learn to manipulate new objects by watching a single video (which we also demonstrated at NIPS 2017), a natural next step is to further scale these approaches to the setting where different tasks correspond to entirely distinct motions and objectives, such as using a wide variety of tools or playing a wide variety of sports. By considering significantly more diversity in the underlying distribution of tasks, we hope that these models will be able to achieve broader generalization, allowing robots to quickly develop strategies for new situations. Further, the techniques we developed here are not specific to robotic manipulation or even control. For instance, both imitation learning and meta-learning have been used in the context of language (examples here and here respectively). In language and other sequential decision-making settings, learning to imitate from a few demonstrations is an interesting direction for future work. We would like to thank Sergey Levine and Pieter Abbeel for valuable feedback when preparing this blog post. This article was initially published on the BAIR blog, and appears here with the authors' permission. This post is based on the following papers: One-Shot Visual Imitation Learning via Meta-Learning Finn C.^*, Yu T.^*, Zhang T., Abbeel P., Levine S. CoRL 2017paper, code, videos One-Shot Imitation from Observing Humans via Domain-Adaptive Meta-Learning Yu T.^*, Finn C.^*, Xie A., Dasari S., Zhang T., Abbeel P., Levine S. RSS 2018paper, video"@en .
+
+<http://example.org/140_cas#char=0,2420> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2420"^^xsd:nonNegativeInteger ;
+    nif:isString "Lift off at AFRC for space propellant tank project - The manufacture of space propellant tanks could be brought back to Britain following an ESA-funded project investigating the best way of making tank parts at close to net shape. Dr Jill Miscandlon (Image: AFRC)During the two-year project Strathclyde University's Advanced Forming Research Centre (AFRC) will use its expertise in forming and forging to advise Airbus Defence and Space – which buys its fuel tanks from Germany or the US – on advanced manufacturing methods for the tanks. Dr Jill Miscandlon, project leader at AFRC, said: \"A tank is generally made of two hemispherical domes and a cylindrical section. The parts are forged, heat-treated and machined down to the required final thickness before they are welded together. They are very thin structures and machining them down from the original thickness results in significant material waste, in addition to the high cost of the machining. \"Over the past four months, we've been looking at methods of achieving near net-shape manufacture, at the same time maintaining the material properties because in space it has to be structurally sound. \"The tanks must be strong enough to store propellant, such as Hydrazine or Xenon gas, under high pressure during a mission's lifetime, which could be more than 25 years. At the same time, for some un-controlled re-entry LEO (Low Earth Orbit) satellite platforms, upon return, they should vaporize upon meeting the upper atmosphere so not to present a risk to people and facilities on Earth.\" The AFRC and Airbus DS are bringing in welding research organisation TWI to help decide the chosen method for producing the tanks. Currently in phase one, the AFRC is advising on the best processes for making efficient parts for the propellant tanks. Dr Miscandlon said: \"Airbus DS will merge their own research experience with our study and decide on the chosen technique to take forward. This could be metal forming, superplastic forming or additive manufacturing processes – all of which would produce the tank parts at close to net shape. \"Key to the project is making components in a shorter lead-time and wasting less expensive material, which is essential with titanium alloys costing up to $60 per kilo, depending on alloy type and manufacturing route. We are also focused on sharing the project outputs with the wider supply chain here in the UK.\" CLICK FOR NEWS"@en .
+
+<http://example.org/153_cas#char=0,4459> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "4459"^^xsd:nonNegativeInteger ;
+    nif:isString "OPC UA – A Complete Solution for IIoT Communications - We are Ocean Data Systems, makers of Dream Report – the \"Industrial\" solution for reports and dashboards. When selecting interfaces for secure connectivity to data sources across the internet, our first choice for Dream Report was OPC UA. Background You have probably known of OPC for many years. Its history began back in the mid 1990s, leveraging then \"new technology\" COM and DCOM. The OPC Foundation strives to deliver a complete solution that would enable vendor agnostic interoperability. There are many different forms of data; real-time values, Alarms and Events, and repositories of history information. The OPC of the 1990s addressed these data types with different specifications; OPC DA, OPC AE and OPC HDA, among others. Proving interoperability between vendors was addressed through test applications, OPC meetups, and Certification Tools, where vendors could bring products and test on a common network. Again, the key was to deliver interoperability between all vendors and products without the need for vendor specific integrations. OPC Classic, as the original specifications have been come to known, is still the connection of choice today for single computer and Intranet applications (the latter being somewhat more complicated with the need to configure and support Microsoft's DCOM). OPC UA for IIoT We are now in the Internet age and there are additional standards to leverage for connectivity. OPC has evolved again to leverage the latest technologies, industry practices and learn from the past. Over 10 years ago, OPC UA was introduced as a unification of the previous specifications into one new architecture, leveraging today's best available technologies and design practices. No longer based solely on Microsoft operating system technology, OPC UA delivers an architecture appropriate for the Internet age, delivering modern transports, security technologies and data and transaction specifications. The last two items are the key to a complete solution and were the defining criteria for its selection as an IIoT (Industrial Internet of Things) ready Dream Report interface. There are alternate IoT Protocols such as MQTT, AMQP, CoAP among others, but many only define transports and not data structures. It is like being able to phone another country, but not speaking the right language over that connection. Easy to Use Supporting OPC UA in a product isn't that difficult and there are plenty of toolkits and sample code to help with the effort. You can learn much more by visiting the OPC Foundation website. In our case, developing an OPC UA client driver was accomplished using OPC Foundation sample code and accompanying documents. Dream Report now includes an OPC UA implementation for real-time data access. That means Dream Report can act as a client to poll data from remote data servers, even securely across the Internet. The most common Servers to be used with Dream Report, and ones we've tested with are Kepware's KEPServerEX and Software Toolbox's TOP Server. The connection between the two OPC UA products and Dream Report is very straight forward. You may specify one or more Server Endpoints, letting you have different and secure connections for different external clients. You need to identify the IP Address of the Server, the Port to use, the encryption level and the User and Password. When using encryption, you will also need to transfer security certificates to enable the secure and approved communications between your various clients and servers. In this image, you can see two Endpoint definitions in KEPServerEX that are easily set up with the Add Button. KEPServerEX offers the ability to select and Trust connecting Client applications. On the Dream Report side, you would specify the Server Endpoint and set up matching levels of security. Once the connection is established, Dream Report can browse tags, access and log data as necessary for Reports and Dashboards. (Settings below are for demonstration purposes only and it is always best to enable encryption and define named users.) Summary While there are more and more and more options for IIoT connectivity, OPC UA is a very straight forward solution that already offers a great deal if industry support and has been proven in real-world applications. For a list of OPC UA compliant products, visit the OPC Foundation Product List. Roy Kok VP Sales & Marketing Ocean Data Systems"@en .
+
+<http://example.org/141_cas#char=0,2882> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2882"^^xsd:nonNegativeInteger ;
+    nif:isString "Low energy magnetic domain wall logic - The aim of this project was to develop a magnetic logic device. This performs a similar function as a conventional transistor (or several transistors) made from silicon. However, the magnetic device has several potential advantages, including low power consumption, non-volatility which is the ability to ?remember? its state even after the power is switched off, and a small size. One magnetic logic device can replace several transistors to form a logic gate. In the project the device was designed, modeled using micromagnetic and electrical simulation programs, fabrication schemes were developed, and a prototype was built; combinations of devices to carry out complex logic operations were also modeled. The overall arrangement of the device is shown in Fig. 1. A narrow magnetic wire contains one domain wall. The domain wall is moved back and forth on the wire by an electric current pulse which forms the input of the device. When it is on the left the device state is ?1? and on the right the device state is ?0?. The device is switched to ?0? if the current, which is the sum of two input currents, is large enough. Otherwise the state is ?1?. The device therefore performs a NAND function. Modeling showed the feasibility of this approach and allowed calculations of ho the device would perform as its dimensions scaled down, in terms of speed and power consumption. More complex circuits such as a full adder were simulated. Device fabrication involved lithographic steps similar to those used in making silicon electronics. Methods were deviced to etch the magnetic films to produce smooth edges, shown in Figure 2, and domain wall behavior in the thin patterned wires was studied including measurements of domain wall pinning and simulations of the domain wall speed and pinning behavior. The readout element, a magnetic tunnel junction, was patterned using an ion beam etching process. Finally, a prototype device was made and tested. Figure 3 shows the device and its performance as a NAND gate. Combinations of devies are currently being tested to see if more complex logic functions can be carried out. Broader impacts of the work included training of graduate and undergraduate students in interdisciplinary research that spans between physics, materials science and electrical engineering. The findings of the project were incorporated into the PIs? teaching, including classes on magnetic materials and devices, and nanoelectronics. A class entitled Electrical, Optical and Magnetic Materials and Devices was prepared for free worldwide access though the edX platform and will be available to the public in Spring 2015. The PIs participated in summer outreach prgrans such as one for New England teachers introducing them to progress in magnetism and data storage. Last Modified: 07/11/2014 Submitted by: Caroline A Ross"@en .
+
+<http://example.org/148_cas#char=0,2823> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "2823"^^xsd:nonNegativeInteger ;
+    nif:isString "\"Dyson unveils next-generation air purifier - Not content with vacuums and fans, Dyson is expanding into the realm of air purification with its Pure Cool purifier fan, which was unveiled today. Building on the company's Air Multiplier technology, it's designed to capture ultrafine particles, which are a major component of air pollution. To learn more, Gizmag talked to Dyson engineer Robert Green. According to Green, the Pure Cool is aimed initially at Asian markets, such as China, where air pollution is a major problem. We tend to think of air pollution as being either gases like carbon monoxide, or large, obvious solids, like soot, but it's the microscopic particles suspended in the atmosphere that are among the biggest hazards. That's because ultrafine particles can penetrate the lung's membranes and cause major damage to the cardiopulmonary system. Green admits that the Pure Cool isn't the first air purifier on the market. In fact, purifiers are major sellers in Asia, but he claims that the Dyson purifier is one up because of the technology crossover from the company's other products. \"\"The filtration system in an air purifier is not that dissimilar to the HEPA filters that you'll see in a vacuum cleaner,\"\" says Green. \"\"So it was a logical step for us to take that technology from our vacuum cleaner and apply it to our Air Multiplier range to give us this purifier product.\"\" The Dyson Pure Cool looks very similar to the company's bladeless fans, but it differs in that it includes a 360-degree glass HEPA filter to trap ultrafine particles. The filter is made of borosilicate microfibers set in a \"\"bird's nest\"\" design with a wrap-around configuration to provide a much larger surface area than previous filters of similar size. Behind this borosilicate filter is an active carbon layer to remove odors, fumes, and vapors and, unlike other systems, this active layer is an integral part of the replaceable filter. Green says that this integrated design is a first and produces a more efficient filter that only needs replacing once every 12 months. He adds that Dyson has made this economically viable thanks to piggybacking on the company's vacuum cleaner manufacturing and supply infrastructure. In a press release, Dyson says that the Pure Cool removes 99.95 percent of ultrafine particles as small as 0.1 microns and that is was put through a series of tests, including the smoke from 228 cigarettes, and still maintained performance. In addition, the Pure Cool is capable of handling any size room, though larger spaces require longer filtration times. Green says that the current unit can filter a 13 sq m (140 sq ft) room in about 25 minutes. The Dyson Pure Cool is available in Japan and China and will roll out in other markets later this year. No price has been set yet. Source: Dyson\""@en .
+
+<http://example.org/138_cas#char=0,3695> a nif:Context,
+        nif:RFC5147String,
+        nif:String ;
+    nif:beginIndex "0"^^xsd:nonNegativeInteger ;
+    nif:endIndex "3695"^^xsd:nonNegativeInteger ;
+    nif:isString "\"Samsung takes aim at blood pressure monitoring with the Galaxy Watch Active - Samsung has launched a new smartwatch that might just take the health and wellness capabilities of the common wearable into new territory. In addition to standard features like sleep and heart rate tracking, the company claims its new Galaxy Watch Active will be able to keep tabs on blood pressure, promising a more complete picture of health taken from the user's wrist. Unveiled amid the fanfare of its first folding phone, the Galaxy Watch Active is a sport-oriented wristwatch with a 40-mm-diameter (1.57-in) face bearing a 1.1-inch (28-mm) color display coated in Gorilla Glass 3. The 20-mm (0.8 in) swappable straps bring the total weight to 25 g (0.9 oz), while available colors are silver, black, rose gold and sea green. The Galaxy Watch Active runs Samsung's Tizen-based Wearable OS 4.0 and is powered by a 230 mAh battery, which is less than half that of a large-sized Galaxy Watch. Also onboard is 768 MB of RAM and 4 GB of internal memory. Compatible with both Android and iOS devices, the Galaxy Watch Active runs useful third-party apps such as Spotify, Under Armour and Strava, and also supports voice control via Samsung's Bixby assistant. Fans of Samsung's Smartwatches so far will note the omission of the rotating bezel, which we've found to be a very intuitive way to scroll through screens and text on its earlier timepieces. But blood pressure data is where the Galaxy Watch Active may bring something new to the table. We say \"\"may\"\" because the feature is still in beta and only available in five countries. From March 15, owners in the US, Singapore, Australia, Canada and Germany will be able to download the company's My BP Lab app, which was developed with researchers from University of California, San Francisco (UCSF). There's not a whole lot of detail just yet on how this will work, but the Galaxy Watch Active is the first from Samsung to carry such a claim. The Apple Watch can offer this functionality but requires a third-party connected device such as the QardioArm smart blood pressure monitor, which plays with the wearable via a dedicated Apple Watch app. The Omron Heartguide watch, which launched at CES last month, is billed as the first FDA-approved smartwatch capable of monitoring blood pressure in the US. Dovetailing with this functionality is the inclusion of guided breathing exercises designed to promote focus and keep stress levels in check. On the activity side of things, meanwhile, Samsung says the watch will automatically detect when its owner is running, cycling, rowing or using an elliptical trainer. Samsung launched a couple of other wearables alongside its new Galaxy Watch Active. The first is a slimmer wrist-worn activity tracker called the Galaxy Fit that syncs with a smartphone to track activity across 90 different types of workouts, along with sleep monitoring, Both the Galaxy Fit and Galaxy Watch Active are feature a 5ATM water resistance rating. The other item is a set of Galaxy wireless earbuds offering up to six hours of playtime over Bluetooth 5.0 and fast wireless charging when placed in either the small carry case or against new Samsung Galaxy S10 smartphone. These also offer Bixby support for voice control over calls and texts or to check in on the battery life. Both the Galaxy buds and the Galaxy Watch Active will be available from March 8, and priced at US$200 and $130 respectively. The Galaxy buds will actually come free with pre-orders for the new Galaxy S10 or Galaxy S10+ for a limited time, while the Galaxy Fit will become available sometime in the second quarter of 2019. Source: SamsungView gallery - 14 images\""@en .
+
